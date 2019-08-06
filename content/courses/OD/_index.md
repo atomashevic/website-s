@@ -6,7 +6,7 @@ summary: I godina, zimski semestar
 weight: 1
 
 # Page metadata.
-title: Osnovne informacije
+title: Osnove demografije
 draft: false # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -16,7 +16,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   OD:
-    name: Osnovne informacije
+    name: OI
     weight: 1
 ---
 
