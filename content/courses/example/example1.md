@@ -1,6 +1,6 @@
 ---
 title: OD I
-linktitle: OD i
+linktitle: OD I
 summary: Uvodni čas
 authors: [Aleksandar Tomašević]
 tags: [prezentacija]
@@ -21,8 +21,11 @@ weight: 1
 
 # Naslov
 
+Blabla
 
+> Citat
 
+---
 
 ## I slajd
 
@@ -32,6 +35,7 @@ weight: 1
 
 * Treća
 
+---
 
 ## II slajd
 
