@@ -29,9 +29,7 @@ menu:
 
 ## Struktura predispitnih poena
 
-* {{% staticref "files/od/complexity_math.pdf" "newtab" %}} Dokument 1 {{% /staticref %}}
+
 
 
 ## Testovi
-
-1. {{% staticref "files/od/complexity_math.pdf" "newtab" %}} Dokument 1 {{% /staticref %}}
