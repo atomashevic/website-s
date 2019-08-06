@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: An Example Course
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+linktitle: Osnove demografije
+summary: OAS Sociologija, I godina, zimski semestar
 weight: 1
 
 # Page metadata.
-title: Overview
+title: Osnovne informacije
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Overview
+    name: Osnovne informacije
     weight: 1
 ---
 
