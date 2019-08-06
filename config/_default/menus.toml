@@ -14,23 +14,6 @@
   weight = 20
 
 
-[[courses]]
-  name = "Kursevi"
-  weight = 10
-  url = "/courses/"
-
-[[courses]]
-  name = "Osnove demografije"
-  weight = 20
-  identifier = "OD"
-
-
-[[menu.OD]]
-  name = "OD"
-  weight = 20
-  url = "/courses/OD/"
-
-
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
