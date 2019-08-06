@@ -53,3 +53,9 @@ Takođe, sva {{< hl >}}važna obaveštenja{{< /hl >}}. biće postavljena na stra
 {{% alert note %}}
 Redovno proveravajte sajt ukoliko očekujete nove informacije ili su vam one najavljene (npr. rezultati testova). Nećete dobijati obaveštenja kada je novi sadržaj postavljen na sajt.
 {{% /alert %}}
+
+Plan razvoja sajta:
+
+- [x] Postaviti strukturu
+- [ ] Napraviti stranice za sve kurseve
+- [ ] Postaviti sav sadržaj
