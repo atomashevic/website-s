@@ -58,7 +58,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "atomashevic@ff.uns.ac.rs
+email = "atomashevic@ff.uns.ac.rs"
 phone = ""
 address = "Kabinet 335, Filozofski fakultet, Zorana Đinđića 2, 21000 Novi Sad Srbija"
 
