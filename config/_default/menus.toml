@@ -13,6 +13,12 @@
   url = "courses/"
   weight = 20
 
+[[menu.OD]]
+    identifier = "OD"
+    name = "This is the blog section"
+    title = "Osnove demografije"
+    url = "courses/OD/"
+    weight = 10
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

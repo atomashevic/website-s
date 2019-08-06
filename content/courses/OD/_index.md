@@ -15,9 +15,9 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  courses:
-    name: OD
-    weight: 1
+  OD:
+    title: "TEST OD"
+    weight: 100
 ---
 
 # Naslov 
