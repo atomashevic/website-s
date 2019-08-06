@@ -13,6 +13,10 @@
   url = "courses/"
   weight = 20
 
+[[menu.OD]]
+  name = "Osnove demografije"
+  url = "courses/OD/"
+  weight = 30
 
 
 # Link to a PDF of your resume/CV from the menu.
