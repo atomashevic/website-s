@@ -7,7 +7,7 @@ weight: 1
 
 # Page metadata.
 title: Osnovne informacije
-draft: true # Is this a draft? true/false
+draft: false # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
