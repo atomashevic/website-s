@@ -1,4 +1,4 @@
-+++
+---
 # Course title, summary, and position.
 linktitle: Osnove demografije
 summary: I godina, zimski semestar
@@ -14,10 +14,12 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 
-[menu.courses]
-  parent = "OD"
-  weight = 1
-+++
+menu:
+  courses:
+    parent: OD
+    weight: 1
+
+---
 
 # Naslov 
 
