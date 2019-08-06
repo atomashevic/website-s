@@ -1,12 +1,11 @@
----
++++
 # Course title, summary, and position.
-title: Osnove demografije
 linktitle: Osnove demografije
 summary: I godina, zimski semestar
 weight: 1
 
 # Page metadata.
-title: Osnove demografije
+title: Osnovne informacije
 draft: false # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -14,11 +13,11 @@ type: docs  # Do not modify.
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
-menu:
-  OD:
-    title: "TEST OD"
-    weight: 100
----
+
+[menu.courses]
+  parent = "OD"
+  weight = 1
++++
 
 # Naslov 
 
