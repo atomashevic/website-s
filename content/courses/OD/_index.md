@@ -13,19 +13,11 @@ type: docs  # Do not modify.
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
-# - weight: Position of link in menu
-
-[[menu.OD]]
-  name = "Kursevi"
-  url = "courses/"
-  weight = 20
-
- 
-
+# - weight: Position of link in menu.
 menu:
   OD:
-    title: Osnove demografije
-    weight: 20
+    name: Osnovne informacije
+    weight: 1
 ---
 
 # Naslov 
