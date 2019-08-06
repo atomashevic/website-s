@@ -1,5 +1,6 @@
 ---
 title: OD I
+linktitle: OD i
 summary: Uvodni čas
 authors: [Aleksandar Tomašević]
 tags: [prezentacija]
@@ -13,9 +14,9 @@ slides:
   highlight_style: dracula
 menu:
   example:
-  	name: I
     parent: Slajdovi
     weight: 1
+weight: 1
 ---
 
 # Naslov
