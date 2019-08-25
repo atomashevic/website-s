@@ -30,8 +30,6 @@ title = "Kursevi 2019 / 2020"
 
 +++
 
-### Informacije
-
 
 Na ovoj stranici možete pronaći sav neophodan nastavni materijal za kurseve u školskoj 2019 / 2020 godini.
 
@@ -47,7 +45,9 @@ To podrazumeva:
 
 * rezultate testova, ispita i spiskove predispitnih poena
 
-Takođe, sva {{< hl >}}važna obaveštenja{{< /hl >}}. biće postavljena na stranicama odgovarajućih kurseva.
+Takođe, sva {{< hl >}}važna obaveštenja{{< /hl >}} biće postavljena na stranicama odgovarajućih kurseva.
+
+
 
 
 {{% alert note %}}
@@ -59,3 +59,7 @@ Plan razvoja sajta:
 - [x] Postaviti strukturu
 - [ ] Napraviti stranice za sve kurseve
 - [ ] Postaviti sav sadržaj
+
+### Konsultacije
+
+Na dnu stranice možete pronaći link za zakazivanje konsultacija. Ovaj način zakazivanja {{< hl >}} nije obavezan {{< hl >}}.
