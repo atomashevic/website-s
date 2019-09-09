@@ -24,12 +24,67 @@ menu:
 
 ## Osnovne informacije
 
-{{% staticref "files/od/complexity_math.pdf" "newtab" %}} Dokument 1 {{% /staticref %}}
+Osnovni cilj kursa jeste upoznavanje studenata sa bazičnim tehnikama kvantitativne analize u demografiji. Sekundari cilj jeste uvod u rad sa kvantitativnim podacima, kao i razmišljanje i zaključivanje u društvenim naukama na osnovu podataka.
+
+U toku kursa biće korišćeni popisni podaci Republike Srbije iz 2002. i 2012. godine i *online* platforma [DevInfo](http://devinfo.stat.gov.rs/Opstine/libraries/aspx/Home.aspx).
+
+Na časovima vežbi, kao i na testovima, **obavezno** ponesite digitron. 
+
+{{% alert warning %}}
+Prisustvo vežbama je beskorisno bez digitrona i bez aktivnog uključivanja u nastavu  jer ukoliko ne pokušavate sami da primenite prikazane formule i dođete do zaključaka o prikazanim podacima, nećete uspeti da savladate gradivo.
+{{% /alert %}}
 
 
 ## Struktura predispitnih poena
 
+- Prisustvo vežbama $\Rightarrow 5$ poena
+- Prisustvo predavanjima $\Rightarrow 5$ poena
+- Domaći zadaci $\Rightarrow 5 \times 2 = 10$  poena
+- Testovi $\Rightarrow 15 \times 2 = 30$ 
 
+Maksimalan broj predispitnih predispitnih poena: **50**
 
 
 ## Testovi
+
+Prvi test biće održan **07.11.2019.**
+
+Drugi test biće održan **16.01.2020.**
+
+Testovi obuhvataju praktični deo kursa i podrazumevaju rešavanje zadataka i zaključivanje na osnovu demografskih podataka.
+
+## Ispit
+
+Ispit je pismeni i nosi 50 poena. Na ispitu se proverava teorijsko znanje o osnovnim demografskim pojmovima, procesima, strukturama i problemima.
+
+Da biste položili ispit potrebno je zadovoljiti dva uslova.
+
+1. Na ispitu se osvojili minimum 25 poena.
+2. Zbir ispitnih i predispitnih poena iznosi minimum 51 poen.
+
+## Domaći zadatak
+
+Domaći zadatak predstavlja samostani rad studenta na dodeljenom demografskom problemu. 
+
+Prvi domaći zadatak biće podeljen 28.11.2019. godine na času vežbi, a predaje se 12.12.2019. godine, takođe na času vežbi.
+
+Drugi domaći zadatak biće podeljen 19.12.2019. godine na času vežbi, a predaje se 09.01.2020. godine, takođe na času vežbi.
+
+*Nije moguće preuzeti, niti predati domaći zadatak van pomenutih časova!*
+
+## Raspored časova vežbi
+
+- 03.10.2019. Uvodni čas
+- 10.10.2019. Rast/pad broja stanovnika
+- 17.10.2019. Fertilitet I
+- 24.10.2019. Fertilitet II
+- 31.10.2019. Priprema za I test
+- 07.11.2019. I test
+- 14.11.2019. Mortalitet I
+- 21.11.2019. Mortalitet II
+- 28.11.2019. Migracije I
+- 05.12.2019. Migracije II
+- 12.12.2019. Starosna struktura stanovništva
+- 19.12.2019. Ekonomska struktura stanovništva
+- 09.01.2020. Priprema za II test
+- 16.01.2020. II test
