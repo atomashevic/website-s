@@ -8,7 +8,7 @@ categories: []
 slides: od-1
 menu:
   example:
-    parent: Slajdovi
+    parent: Časovi
     weight: 1
 weight: 1
 ---
