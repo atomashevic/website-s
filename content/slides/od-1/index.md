@@ -20,10 +20,10 @@ slides:
 ## Struktura predispitnih poena
 
 
-{{%/* fragment */%}} Prisustvo vežbama $\Rightarrow 5$ poena {{%/* /fragment */%}}
-{{%/* fragment */%}} Prisustvo predavanjima $\Rightarrow 5$ {{%/* /fragment */%}}
-{{%/* fragment */%}} Domaći zadaci $\Rightarrow 5 \times 2 = 10$ {{%/* /fragment */%}}
-{{%/* fragment */%}} Testovi $\Rightarrow 15 \times 2 = 30$ {{%/* /fragment */%}}
+- Prisustvo vežbama $\Rightarrow 5$ poena
+- Prisustvo predavanjima $\Rightarrow 5$
+- Domaći zadaci $\Rightarrow 5 \times 2 = 10$
+- Testovi $\Rightarrow 15 \times 2 = 30$
 
 ---
 
@@ -44,6 +44,8 @@ slides:
 - *Svaki bod se računa!*
 - Nema popravnih testova, nema odlaganja i pomeranja testova ...
 
+---
+
 ## Domaći zadaci
 
 - Zadaci koje samostalno radite kod kuće
@@ -57,6 +59,7 @@ slides:
 - Teorijsko gradivo
 - **Minimum 25 poena da biste položili ispit!**
 - **Minimum 51 poen u zbiru predispitnih i ispitnih poena**
+- 
 ---
 
 ## DevInfo
