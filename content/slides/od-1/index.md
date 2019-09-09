@@ -59,12 +59,14 @@ slides:
 - Teorijsko gradivo
 - **Minimum 25 poena da biste položili ispit!**
 - **Minimum 51 poen u zbiru predispitnih i ispitnih poena**
-- 
+
+
 ---
 
 ## DevInfo
 
 <iframe src='http://devinfo.stat.gov.rs/Opstine/libraries/aspx/Home.aspx'></iframe>
+
 ---
 
 # Pitanja?
