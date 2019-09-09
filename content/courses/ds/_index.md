@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Deskriptivna statistika
 summary: OAS Sociologija, I godina, letnji semestar
-weight: 1
+weight: 3
 
 # Page metadata.
 title: Silabus

@@ -5,7 +5,7 @@ summary: Uvodni čas
 authors: [Aleksandar Tomašević]
 tags: [prezentacija]
 categories: []
-slides: example
+slides: od-1
 menu:
   example:
     parent: Slajdovi
@@ -13,11 +13,11 @@ menu:
 weight: 1
 ---
 
-# Naslov
+[Evidencija prisustva](https://forms.gle/t2dR6nUfJ5oPhFVT6)
 
-Blabla
+Uvodni čas iz Osnova demografije.
 
-> Citat
+- E-mail evidencija
+- Prezentacija silabusa
+- [DevInfo](http://devinfo.stat.gov.rs/Opstine/libraries/aspx/Home.aspx)
 
-
-$ x = 2 $
