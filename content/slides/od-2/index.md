@@ -13,13 +13,12 @@ slides:
   highlight_style: dracula
   incremental: true
   mouseWheel: true
+  keyboard:
+    40: 'next'
+revealOptions:
+    keyboard: {40: 'next'}
 ---
 
-Reveal.configure({
-  keyboard: {
-    34: 'next', // go to the next slide when the ENTER key is pressed
-  }
-});
 
 ### Rast i pad broja stanovnika
 
