@@ -13,10 +13,12 @@ slides:
   highlight_style: dracula
   incremental: true
   mouseWheel: true
-  keyboard:
-    40: 'next'
+  keyboard: { 40: 'next'}
+  data-separator-vertical: "-s-"
 revealOptions:
     keyboard: {40: 'next'}
+    incremental: true
+    data-separator-vertical: "-s-"
 ---
 
 
@@ -28,6 +30,11 @@ revealOptions:
 1. Promena broja stanovnika u Srbiji
 2. Linearni model godišnje promene broja stanovnika
 3. Geometrijski model godišnje promene broja stanovnika
+
+-s-
+
+## Test
+-s-
 
 ---
 
