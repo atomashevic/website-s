@@ -6,7 +6,7 @@ authors: [Aleksandar Tomašević]
 tags: [prezentacija]
 categories: []
 url_code: ""
-url_slides: "/files/od/test.pdf"
+url_slides: "/files/od-01.pdf"
 menu:
   example:
     parent: Časovi
