@@ -13,7 +13,7 @@ slides:
   highlight_style: dracula
 ---
 
-# Osnove demografije - Uvodni čas
+### Osnove demografije - Uvodni čas
 
 ---
 
@@ -60,12 +60,6 @@ slides:
 - **Minimum 25 poena da biste položili ispit!**
 - **Minimum 51 poen u zbiru predispitnih i ispitnih poena**
 
-
----
-
-## DevInfo
-
-<iframe src='http://devinfo.stat.gov.rs/Opstine/libraries/aspx/Home.aspx'></iframe>
 
 ---
 
