@@ -13,6 +13,12 @@ slides:
   highlight_style: dracula
 ---
 
+Reveal.configure({
+  keyboard: {
+    34: 'next', // go to the next slide when the ENTER key is pressed
+  }
+});
+
 ### Rast i pad broja stanovnika
 
 ---
@@ -38,7 +44,9 @@ slides:
 | 2016   | 7 058 322       |
 | 2017   | 7 020 858       |
 
+
 ---
+
 
 ### Grafički prikaz
 
