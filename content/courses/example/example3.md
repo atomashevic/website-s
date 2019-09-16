@@ -21,7 +21,7 @@ weight: 2
 - Linearni model godišnje promene broja stanovnika
 - Geometrijski model godišnje promene broja stanovnika
 
-# Linkovi
+## Linkovi
 
 - [Statistički kalendar Republike Srbije, 2019](http://publikacije.stat.gov.rs/G2019/Pdf/G201917012.pdf), `strana 26.`
 - ['Broj stanovnika u Srbiji pao ispod sedam miliona'](http://www.politika.rs/sr/clanak/406443/Broj-stanovnika-u-Srbiji-pao-ispod-sedam-miliona)
