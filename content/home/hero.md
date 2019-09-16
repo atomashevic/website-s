@@ -54,12 +54,7 @@ Takođe, sva {{< hl >}}važna obaveštenja{{< /hl >}} biće postavljena na stran
 Redovno proveravajte sajt ukoliko očekujete nove informacije ili su vam one najavljene (npr. rezultati testova). Nećete dobijati obaveštenja kada je novi sadržaj postavljen na sajt.
 {{% /alert %}}
 
-Plan razvoja sajta:
-
-- [x] Postaviti strukturu
-- [ ] Napraviti stranice za sve kurseve
-- [ ] Postaviti sav sadržaj
 
 ### Konsultacije
 
-Na dnu stranice možete pronaći link za zakazivanje konsultacija. Ovaj način zakazivanja {{< hl >}} nije obavezan {{< hl >}}.
+Na dnu stranice možete pronaći [link za zakazivanje konsultacija](https://calendly.com/atomasevic/konsultacije). Ovaj način zakazivanja {{< hl >}} nije obavezan {{< hl >}}, ali je poželjno da se na ovanj način najavite kako bismo se što bolje pripremili i učinili konsultacije efikasnijim.
