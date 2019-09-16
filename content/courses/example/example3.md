@@ -7,9 +7,8 @@ tags: [prezentacija]
 categories: []
 slides: od-2
 url_code: ""
-url_pdf: "/static/files/od/test.pdf"
-url_slides: ""
-url_video: "/static/files/od/test.pdf"
+url_pdf: "/files/od/test.pdf"
+url_slides: "/files/od/test.pdf"
 menu:
   example:
     parent: Časovi
