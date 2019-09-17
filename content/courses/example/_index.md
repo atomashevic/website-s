@@ -74,10 +74,10 @@ Drugi domaći zadatak biće podeljen 19.12.2019. godine na času vežbi, a preda
 
 ## Raspored časova vežbi
 
-- 03.10.2019. Uvodni čas
-- 10.10.2019. Rast/pad broja stanovnika
-- 17.10.2019. Fertilitet I
-- 24.10.2019. Fertilitet II
+- 03.10.2019. [Uvodni čas](https://s.atomasevic.com/courses/example/example1/)
+- 10.10.2019. [Rast/pad broja stanovnika](https://s.atomasevic.com/courses/example/example3/)
+- 17.10.2019. [Fertilitet I](https://s.atomasevic.com/courses/example/example4/)
+- 24.10.2019. [Fertilitet II](https://s.atomasevic.com/courses/example/example5/)
 - 31.10.2019. Priprema za I test
 - 07.11.2019. I test
 - 14.11.2019. Mortalitet I

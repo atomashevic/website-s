@@ -1,7 +1,7 @@
 ---
-title: OD III
-linktitle: OD III
-summary: Treći čas - Fertilitet I
+title: OD IV
+linktitle: OD IV
+summary: Četvrti čas - Fertilitet II
 authors: [Aleksandar Tomašević]
 tags: [prezentacija]
 categories: []
@@ -16,11 +16,11 @@ weight: 2
 
 [Evidencija prisustva](https://forms.gle/t2dR6nUfJ5oPhFVT6)
 
-# Fertilitet I
+# Fertilitet II
 
-- Podaci o fertilitetu u Srbiji
-- Natalitet
-- Opšta stopa fertiliteta
+- Specifični fertilni periodi
+- Stopa ukupnog fertiliteta
+- Reprodukcija stanovništva
 
 ## Linkovi
 

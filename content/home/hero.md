@@ -57,4 +57,4 @@ Redovno proveravajte sajt ukoliko očekujete nove informacije ili su vam one naj
 
 ### Konsultacije
 
-Na dnu stranice možete pronaći [link za zakazivanje konsultacija](https://calendly.com/atomasevic/konsultacije). Ovaj način zakazivanja {{< hl >}} nije obavezan {{< hl >}}, ali je poželjno da se na ovanj način najavite kako bismo se što bolje pripremili i učinili konsultacije efikasnijim.
+Na dnu stranice možete pronaći [link za zakazivanje konsultacija](https://calendly.com/atomasevic/konsultacije). Ovaj način zakazivanja {{< hl >}} nije obavezan {{< /hl >}}, ali je poželjno da se na ovaj način najavite kako bismo se što bolje pripremili i učinili konsultacije efikasnijim.
