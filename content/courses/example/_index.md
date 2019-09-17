@@ -34,6 +34,14 @@ Na časovima vežbi, kao i na testovima, **obavezno** ponesite digitron.
 Prisustvo vežbama je beskorisno bez digitrona i bez aktivnog uključivanja u nastavu  jer ukoliko ne pokušavate sami da primenite prikazane formule i dođete do zaključaka o prikazanim podacima, nećete uspeti da savladate gradivo.
 {{% /alert %}}
 
+## Literatura
+
+- Beleške i prezentacije sa vežbi
+- Beleške sa predavanja
+- A. Wertheimer-Baletić. *Stanovništvo i razvoj*. Zagreb: MATE. [^1]
+- 
+
+[^1]: Dostupno u kopirnici fakulteta
 
 ## Struktura predispitnih poena
 
