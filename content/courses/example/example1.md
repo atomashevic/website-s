@@ -5,7 +5,7 @@ summary: Uvodni čas
 authors: [Aleksandar Tomašević]
 tags: [prezentacija]
 categories: []
-slides: od-1
+url_slides: "/files/od-00.pdf"
 menu:
   example:
     parent: Časovi
@@ -19,7 +19,7 @@ weight: 1
 
 - E-mail evidencija
 - Prezentacija silabusa
-- [DevInfo](http://devinfo.stat.gov.rs/Opstine/libraries/aspx/Home.aspx)
+- [DevInfo uputstvo](https://s.atomasevic.com/courses/example/example2/)
 
 ### DevInfo
 
