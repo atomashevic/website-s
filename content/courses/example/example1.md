@@ -8,6 +8,8 @@ categories: []
 url_slides: "/files/od-00.pdf"
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.
 menu:
   example:
     parent: Časovi

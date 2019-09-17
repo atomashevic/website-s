@@ -7,6 +7,8 @@ tags: [prezentacija]
 categories: []
 url_code: ""
 url_slides: "/files/od-02.pdf"
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.
 menu:
   example:
     parent: Časovi

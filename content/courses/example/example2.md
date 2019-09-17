@@ -5,6 +5,8 @@ summary: Uputstvo za DevInfo
 authors: [Aleksandar Tomašević]
 tags: [uputstvo]
 categories: []
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.
 #slides: od-1
 menu:
   example:
