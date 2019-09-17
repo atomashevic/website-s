@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Deskriptivna statistika
+linktitle: Statistički metodi
 summary: OAS Sociologija, I godina, letnji semestar
 weight: 3
 
