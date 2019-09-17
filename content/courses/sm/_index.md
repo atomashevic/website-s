@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Statistički metodi
-summary: OAS Sociologija, I godina, letnji semestar
+summary: OAS Sociologija, II godina, zimski semestar
 weight: 3
 
 # Page metadata.
