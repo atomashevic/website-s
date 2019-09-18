@@ -51,6 +51,16 @@ Prvi test biće održan **06.11.2019.**
 
 Drugi test biće održan **15.01.2020.**
 
+## Domaći zadatak
+
+Domaći zadatak predstavlja samostani rad studenta na dodeljenom statističkom problemu. 
+
+Prvi domaći zadatak biće podeljen 27.11.2019. godine na času vežbi, a predaje se 11.12.2019. godine, takođe na času vežbi.
+
+Drugi domaći zadatak biće podeljen 18.12.2019. godine na času vežbi, a predaje se 08.01.2020. godine, takođe na času vežbi.
+
+*Nije moguće preuzeti, niti predati domaći zadatak van pomenutih časova
+
 ## Ispit
 
 Ispit se sastoji iz dva dela.
@@ -70,8 +80,8 @@ Usmeni deo predstavlja proveru teorijskog znanja i nosi **30 poena**. Usmeni deo
 
 - 09.10.2019. [Uvod u statističko zaključivanje, z-test](\courses\sm\sm01)
 - 09.10.2019. [t-test 1 uzorak](\courses\sm\sm02)
-- 23.10.2019. t-test 2 uzorka
-- 23.10.2019. z-test za proporciju
+- 23.10.2019. [t-test 2 uzorka](\courses\sm\sm03)
+- 23.10.2019. [z-test za proporciju](\courses\sm\sm04)
 - 30.10.2019. Priprema za I test
 - 06.11.2019. I test
 - 27.11.2019. Analiza varijanse
