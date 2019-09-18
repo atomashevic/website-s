@@ -68,8 +68,8 @@ Usmeni deo predstavlja proveru teorijskog znanja i nosi **30 poena**. Usmeni deo
 
 ## Raspored časova vežbi
 
-- 09.10.2019. Uvod u statističko zaključivanje, z-test
-- 09.10.2019. t-test 1 uzorak
+- 09.10.2019. [Uvod u statističko zaključivanje, z-test](\courses\sm\sm01)
+- 09.10.2019. [t-test 1 uzorak](\courses\sm\sm02)
 - 23.10.2019. t-test 2 uzorka
 - 23.10.2019. z-test za proporciju
 - 30.10.2019. Priprema za I test
