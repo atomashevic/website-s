@@ -17,6 +17,8 @@ weight: 1
 
 [Evidencija prisustva](https://forms.gle/t2dR6nUfJ5oPhFVT6)
 
+[Prezentacija](/files/od-00.pdf)
+
 ## Uvodni čas iz Osnova demografije.
 
 - E-mail evidencija
