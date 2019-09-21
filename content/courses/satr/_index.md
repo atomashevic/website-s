@@ -63,9 +63,9 @@ Rokovi za slanje seminarskih radova su fiksni bez ozbira kada planirate da izađ
 - Rok za predaju radne verzije: **1.12.2019**. Ukoliko predate radnu verziju rada do ovog datuma, dobićete povratnu informaciju u cilju poboljšanja teksta.
 - Rok za predaju konačne verzije: **31.12.2019.**. Ukoliko pošaljete rad 3-4 dana posle roka, on će biti uzet u razmatranje, ali sa smanjenim brojem poena. Ukoliko pošaljete rad, 4+ dana nakon završetka roka, on neće biti razmatran.
 
-{{% warning note %}}
+{{% alert warning %}}
 Seminarski rad je uslov za izlazak na ispit. Ukoliko ne pošaljete rad na vreme ili on be bude prihvaćen, nećete moći da izađete na ispit u bilo kom roku.
-{{% /warning %}}
+{{% /alert %}}
 
 ## Ispit
 
