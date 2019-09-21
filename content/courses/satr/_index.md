@@ -74,9 +74,9 @@ Umeni ispit nosi $70$ poena.
 
 ## Raspored časova vežbi
 
-- 03.10.2019  [Uvodni čas](/satr01)
-- 10.10.2019. [Redklif-Braun, Evans-Pričard](/satr02)
-- 17.10.2019. [Frejzer](/satr03)
+- 03.10.2019  [Uvodni čas](/courses/satr/satr01)
+- 10.10.2019. [Redklif-Braun, Evans-Pričard](/courses/satr/satr02)
+- 17.10.2019. [Frejzer](/courses/satr/satr03)
 - 24.10.2019. Maret
 - 31.10.2019. Malinovski
 - 14.11.2019. Frojd
