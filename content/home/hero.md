@@ -30,6 +30,8 @@ title = "Kursevi 2019 / 2020"
 
 +++
 
+### [KURSEVI](https://s.atomasevic.com/courses/)
+
 
 Na ovoj stranici možete pronaći sav neophodan nastavni materijal za kurseve u školskoj 2019 / 2020 godini.
 
