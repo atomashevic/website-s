@@ -78,13 +78,14 @@ Usmeni deo predstavlja proveru teorijskog znanja i nosi **30 poena**. Usmeni deo
 
 ## Raspored časova vežbi
 
-- 09.10.2019. [Uvod u statističko zaključivanje, z-test](/courses/sm/sm01)
+- 02.10.2019. [Uvod u statističko zaključivanje, z-test](/courses/sm/sm01)
 - 09.10.2019. [t-test 1 uzorak](/courses/sm/sm02)
-- 23.10.2019. [t-test 2 uzorka](/courses/sm/sm03)
+- 16.10.2019. [t-test 2 uzorka](/courses/sm/sm03)
 - 23.10.2019. [z-test za proporciju](/courses/sm/sm04)
 - 30.10.2019. Priprema za I test
 - 06.11.2019. I test
-- 27.11.2019. Analiza varijanse
+- 13.11.2019  Analiza varijanse I
+- 27.11.2019. Analiza varijanse II
 - 04.12.2019. Hi-kvadrat
 - 11.12.2019. Korelacija i regresija I
 - 18.12.2019. Korelacija i regresija II
