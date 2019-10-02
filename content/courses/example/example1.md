@@ -23,9 +23,7 @@ weight: 1
 
 - E-mail evidencija
 - Prezentacija silabusa
-- [DevInfo uputstvo](https://s.atomasevic.com/courses/example/example2/)
 
-### DevInfo
 
 
 

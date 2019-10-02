@@ -21,4 +21,4 @@ weight: 1
 
 - Pregled silabusa
 - Dogovor oko predispitnih obaveza
-- Podaci --- *Evropsko društveno istraživanje 2018-2019*
+- Podaci

@@ -39,7 +39,6 @@ Prisustvo vežbama je beskorisno bez digitrona i bez aktivnog uključivanja u na
 - Beleške i prezentacije sa vežbi
 - Beleške sa predavanja
 - A. Wertheimer-Baletić. *Stanovništvo i razvoj*. Zagreb: MATE. [^1]
-- 
 
 [^1]: Dostupno u kopirnici fakulteta
 
