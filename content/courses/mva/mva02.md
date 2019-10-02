@@ -1,6 +1,6 @@
 ---
-title: MVA I
-linktitle: MVA I
+title: MVA II
+linktitle: MVA II
 summary: Uvodni čas
 authors: [Aleksandar Tomašević]
 tags: [prezentacija]
@@ -13,12 +13,14 @@ menu:
   mva:
     parent: Časovi
     weight: 1
-weight: 1
+weight: 2
 ---
 
+[Prezentacija](files/mva-02.pdf)
 
-## Uvodni čas iz MVA
+## Višestruka regresija
 
-- Pregled silabusa
-- Dogovor oko predispitnih obaveza
-- Podaci
+- Teorijski uvod u višestruku regresiju
+- Regresioni model i statistički testovi
+- Ispravnost regresionog modela
+- Višestruka regresija u SPSS-u
