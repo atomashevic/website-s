@@ -40,6 +40,10 @@ Prisustvo vežbama je beskorisno bez digitrona i bez aktivnog uključivanja u na
 - Beleške sa predavanja
 - A. Wertheimer-Baletić. *Stanovništvo i razvoj*. Zagreb: MATE. [^1]
 
+{{% alert note %}}
+Za ovaj kurs potrebna vam je samo deo pomenutog udžbenika: od strane 197 do strane 393 (uključujući i same te stranice). 
+{{% /alert %}}
+
 [^1]: Dostupno u kopirnici fakulteta
 
 ## Struktura predispitnih poena
@@ -75,7 +79,7 @@ Domaći zadatak predstavlja samostani rad studenta na dodeljenom demografskom pr
 
 Prvi domaći zadatak biće podeljen 28.11.2019. godine na času vežbi, a predaje se 12.12.2019. godine, takođe na času vežbi.
 
-Drugi domaći zadatak biće podeljen 19.12.2019. godine na času vežbi, a predaje se 09.01.2020. godine, takođe na času vežbi.
+Drugi domaći zadatak biće podeljen 12.12.2019. godine na času vežbi, a predaje se 09.01.2020. godine, takođe na času vežbi.
 
 *Nije moguće preuzeti, niti predati domaći zadatak van pomenutih časova!*
 
