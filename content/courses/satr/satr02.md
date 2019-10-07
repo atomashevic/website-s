@@ -16,13 +16,13 @@ weight: 2
 
 ## Redklif-Braun
 
-{{< hl >}} Student: ??? {{< /hl >}}
+{{< hl >}} Student: Ivan Nikolić {{< /hl >}}
 
 - Redklif-Braun, {{% staticref "files/satr-rb.pdf" "newtab" %}} Religija i društvo {{% /staticref %}}
 
 ## Evans-Pričard
 
-{{< hl >}} Student: ??? {{< /hl >}}
+{{< hl >}} Student: Jelena Jojić {{< /hl >}}
 
 - Evans-Pričard, {{% staticref "files/satr-ep.pdf" "newtab" %}} Religija i antropolozi {{% /staticref %}}
 

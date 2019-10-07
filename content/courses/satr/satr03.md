@@ -16,7 +16,7 @@ weight: 3
 
 ## Frejzer
 
-{{< hl >}} Student: ??? {{< /hl >}}
+{{< hl >}} Student: Bernadet Lerinc {{< /hl >}}
 
 - Frejzer, {{% staticref "files/satr-fr.pdf" "newtab" %}} Simpatička magija, Magija i religija {{% /staticref %}} (ENG). Dostupno u [biblioteci](https://plus.sr.cobiss.net/opac7/bib/ffns-15/20088576) na srpskom jeziku.
 
