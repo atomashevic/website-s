@@ -26,6 +26,16 @@ menu:
 
 Osnovni cilj nastave na vežbama jeste upoznavanje studenata sa osnovnim pojmovima institucionalne analize politike u sociologiji, kao i sa analitičkim okvirom za analizu i tumačenje procesa formiranja i implementiranja javnih politika relevantnih za socijalni rad.
 
+## Literatura
+
+Literatura za ispit:
+
+- [Hejvud - Politika](/files/sp-hejvud.pdf)
+
+Literatura za vežbe:
+
+- [Karamani - Komparativna politika (odabrana poglavlja)](/files/sp-kp.pdf)
+
 ## Struktura predispitnih poena
 
 - Prisustvo i aktivnost na predavanjima $\Rightarrow 10$ poena
@@ -37,7 +47,7 @@ Osnovni cilj nastave na vežbama jeste upoznavanje studenata sa osnovnim pojmovi
 Maksimalan broj predispitnih predispitnih poena: **40**
 
 
-# Aktivnost na vežbama
+## Aktivnost na vežbama
 
 Aktivnost na vežbama odnosi se na čitanje literature koja je predviđena za časove vežbi, prezentaciju pročitanih tekstova na času, kao i učešće u diskusiji. 
 
@@ -50,7 +60,7 @@ Teme za pisanje seminarskog rada biće objavljene **18. novembra**. Rok za izbor
 
 Rok za slanje finalne verzije rada je **08.01.2020.** bez obzira kada planirate da polažete ispit. Ukoliko zakasnite sa predajom rada do 3 dana, rad će biti razmatran, ali uz smanjeni broj poena. Radovi poslati 3 dana nakon isteka roka neće biti uzeti u razmatranje i neće biti ocenjeni.
 
-# Ispit
+## Ispit
 
 Ispit je usmeni i nosi 60 poena. U sklopu usmenog ispita, studenti će odgovarati i na pitanja o svom seminarskog radu.
 

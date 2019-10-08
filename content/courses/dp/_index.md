@@ -63,6 +63,7 @@ Pismeni ispit se sastoji iz dva dela, pri čemu svaki deo nosi 30 poena. Morate 
 
 U svakom ispitnom roku, možete polagati oba dela ispita ili samo jedan deo. Ukoliko polažete *samo I deo* ispita, niste obavezni da prijavite ispit u tom roku. Ukoliko polažete oba dela ili samo II deo (nakon položenog prvog dela), morate prijaviti ispit.
 
+Prvi deo ispita takođe možete polagati u jednom od dva termina tokom semestra. Ukoliko položite I deo ispita u prvom terminu, ne možete ponovo polagati u narednim terminima ukoliko želite veći broj poena.
 
 ## Raspored časova vežbi
 
@@ -73,11 +74,13 @@ U svakom ispitnom roku, možete polagati oba dela ispita ili samo jedan deo. Uko
 - 01.11.2019. Funkcionalizam -- Robert Merton
 - 15.11.2019. Albert Koen
 - 22.11.2019. Hauard Beker
+- 28.11.2019. **Kolokvijum** (I deo ispita u terminu predavanja)
 - 29.11.2019. Politička ekonomija kriminaliteta i kritička kriminologija
 - 06.12.2019. Kontrolna teorija delinkencije
 - 13.12.2019. *Teme za seminarske radove i eseje*
 - 20.12.2019. Brajtvejt i Kordela
 - 10.01.2019. Diskusija o esejima
+- 16.01.2019. **Kolokvijum** (I deo ispita u terminu predavanja)
 
 
 
