@@ -38,6 +38,9 @@ Zadaci na ovom kursu su problemski orijentisani i zahtevaju preciznu, smislenu i
 
 - Kovačić, {{% staticref "files/mva-k.pdf" "newtab" %}}Multivarijaciona analiza{{% /staticref %}}
 
+## Podaci
+
+- {{% staticref "files/ess.sav" "newtab" %}}ESS podaci{{% /staticref %}} za Srbiju, deveti talas istraživanja 2018-2019
 
 ## Struktura predispitnih poena
 
