@@ -18,15 +18,15 @@ weight: 2
 
 ### Širi pojam države
 
-{{< hl >}} Student: ??? {{< /hl >}}
+{{< hl >}} Student: Tijana Kraljević {{< /hl >}}
 
 ### Državljanstvo i nacija
 
-{{< hl >}} Student: ??? {{< /hl >}}
+{{< hl >}} Student: Škundrić Nikola {{< /hl >}}
 
 ### Razvoj države
 
-{{< hl >}} Student: ??? {{< /hl >}}
+{{< hl >}} Student: Roganović Miljana {{< /hl >}}
 
 ## Ključne teme i pojmovi
 
@@ -35,7 +35,7 @@ weight: 2
 - Da li nacije stvaraju države ili obrnuto?
 - Uloga prava u stvaranju države
 - Država kao "servis građana"
-- 
+
 
 
 

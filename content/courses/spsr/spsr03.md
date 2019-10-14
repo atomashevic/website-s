@@ -18,15 +18,15 @@ weight: 3
 
 ### Definisanje demokratije
 
-{{< hl >}} Student: ??? {{< /hl >}}
+{{< hl >}} Student: Nenadić ANa {{< /hl >}}
 
 ### Razvoj demokratije
 
-{{< hl >}} Student: ??? {{< /hl >}}
+{{< hl >}} Student: Zorić Dragana {{< /hl >}}
 
 ### Tipologije demokratije
 
-{{< hl >}} Student: ??? {{< /hl >}}
+{{< hl >}} Student: Jekić Radovan {{< /hl >}}
 
 ## Ključne teme i pojmovi
 
