@@ -18,6 +18,8 @@ weight: 3
 
 ## Demokratije
 
+[Podaci - Evropsko društveno istraživanje](/files/ess-demo.html)
+
 ### Definisanje demokratije
 
 {{< hl >}} Student: Nenadić Ana {{< /hl >}}
