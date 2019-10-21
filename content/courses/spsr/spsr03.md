@@ -14,11 +14,13 @@ menu:
 weight: 3
 ---
 
+[Evidencija prisustva](https://forms.gle/Q5yfFHcNoDATWhTP8)
+
 ## Demokratije
 
 ### Definisanje demokratije
 
-{{< hl >}} Student: Nenadić ANa {{< /hl >}}
+{{< hl >}} Student: Nenadić Ana {{< /hl >}}
 
 ### Razvoj demokratije
 
