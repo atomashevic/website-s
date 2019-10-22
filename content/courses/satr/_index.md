@@ -77,8 +77,8 @@ Umeni ispit nosi $70$ poena.
 - 03.10.2019  [Uvodni čas](/courses/satr/satr01)
 - 10.10.2019. [Redklif-Braun, Evans-Pričard](/courses/satr/satr02)
 - 17.10.2019. [Frejzer](/courses/satr/satr03)
-- 24.10.2019. Maret
-- 31.10.2019. Malinovski
+- 24.10.2019. [Maret](/courses/satr/satr04)
+- 31.10.2019. [Malinovski](/courses/satr/satr05)
 - 14.11.2019. Frojd
 - 21.11.2019. Gerc
 - 21.11.2019. Robertson-Smit
