@@ -20,19 +20,19 @@ weight: 4
 
 ### Uvod + Republikanska tradicija (teorije interesnih udruženja)
 
-{{< hl >}} Student:  {{< /hl >}}
+{{< hl >}} Student: Došenović Ana {{< /hl >}}
 
 ### Liberalne i korporativističke tradicije
 
-{{< hl >}} Student:  {{< /hl >}}
+{{< hl >}} Student: Pasku Anđela {{< /hl >}}
 
 ### Interesna udruženja u praksi (tipologija + lobiranje i politička razmena)
 
-{{< hl >}} Student:  {{< /hl >}}
+{{< hl >}} Student: Klarić Marija  {{< /hl >}}
 
 ### Interesna udruženja u praksi (konfliktna politika + vlast privatnih interesa)
 
-{{< hl >}} Student:  {{< /hl >}}
+{{< hl >}} Student: Timić Nađa  {{< /hl >}}
 
 ## Ključne teme i pojmovi
 

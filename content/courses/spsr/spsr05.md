@@ -18,19 +18,17 @@ weight: 3
 
 ## Društveni pokreti
 
-{{< hl >}} Student:  {{< /hl >}}
-
 ### Uvod i teorijski pristupi društvenim pokretima
 
-{{< hl >}} Student: {{< /hl >}}
+{{< hl >}} Student: Sarić Jelena {{< /hl >}}
 
 ### Komparativna analiza društvenih pokreta
 
-{{< hl >}} Student: {{< /hl >}}
+{{< hl >}} Student: Ivanović Vanja {{< /hl >}}
 
 ### Nastanak, mobilizacija i uspeh društvenih pokreta
 
-{{< hl >}} Student: {{< /hl >}}
+{{< hl >}} Student: Drča Ivana {{< /hl >}}
 
 ## Ključne teme i pojmovi
 
