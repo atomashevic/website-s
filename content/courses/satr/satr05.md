@@ -14,6 +14,8 @@ menu:
 weight: 5
 ---
 
+[Evidencija prisustva](https://forms.gle/vfMYyzWD9a7hyFTK9)
+
 ## Malinovski
 
 {{< hl >}} Studenti: Andrić Marina i Damljanović Anđela {{< /hl >}}

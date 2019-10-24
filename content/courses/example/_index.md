@@ -64,6 +64,16 @@ Drugi test biće održan **16.01.2020.**
 
 Testovi obuhvataju praktični deo kursa i podrazumevaju rešavanje zadataka i zaključivanje na osnovu demografskih podataka.
 
+
+### I test
+
+Literatura za teorijski deo testa:
+
+- Pokazatelji promena u ukupnom broju stanovnika (str. 197 – 200)
+- Prirodno i mehaničko kretanje stanovništva (str. 200 – 204)
+- Komponente prirodnog kretanja stanovništva (str. 204 – 208)
+- Natalitet i fertilitet (str. 208 – 226)
+
 ## Ispit
 
 Ispit je pismeni i nosi 50 poena. Na ispitu se proverava teorijsko znanje o osnovnim demografskim pojmovima, procesima, strukturama i problemima.

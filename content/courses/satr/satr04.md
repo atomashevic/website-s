@@ -14,6 +14,8 @@ menu:
 weight: 4
 ---
 
+[Evidencija prisustva](https://forms.gle/vfMYyzWD9a7hyFTK9)
+
 ## Robert Maret
 
 {{< hl >}} Studenti: Karanović Aleksa i Stefan Janjić Lozo {{< /hl >}}
