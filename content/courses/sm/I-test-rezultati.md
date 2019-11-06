@@ -22,6 +22,7 @@ weight: 12
 Cvijetić Mladen|2|2|0|0|4
 Dragan Dragana|2|2|2|9|15
 Grozdanovski Nevena|0|2|0|4|6
+Jakšić Mirjana|2|2|1|4|9
 Jovović Ognjen|2|2|1|4|9
 Mastilović Maša|2|2|2|9|15
 Mijatović Milica|2|2|0|5|9
