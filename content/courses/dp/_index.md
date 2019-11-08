@@ -70,10 +70,10 @@ Prvi deo ispita takođe možete polagati u jednom od dva termina tokom semestra.
 - 04.10.2019  [Uvodni čas](/courses/dp/dp01)
 - 11.10.2019. [Pozitivistička tradicija u kriminologiji](/courses/dp/dp02)
 - 18.10.2019. [Funkcionalizam -- Dirkem](/courses/dp/dp03)
-- 25.10.2019. Funkcionalizam -- Šo, Mekej, Saterland
-- 01.11.2019. Funkcionalizam -- Robert Merton
-- 15.11.2019. Albert Koen
-- 22.11.2019. Hauard Beker
+- 25.10.2019. [Funkcionalizam -- Šo, Mekej, Saterland](/courses/dp/dp04)
+- 01.11.2019. [Funkcionalizam -- Robert Merton](/courses/dp/dp05)
+- 15.11.2019. [Albert Koen](/courses/dp/dp06)
+- 22.11.2019. [Hauard Beker](/courses/dp/dp07)
 - 28.11.2019. **Kolokvijum** (I deo ispita u terminu predavanja)
 - 29.11.2019. Politička ekonomija kriminaliteta i kritička kriminologija
 - 06.12.2019. Kontrolna teorija delinkencije
