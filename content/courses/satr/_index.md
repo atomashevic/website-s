@@ -79,10 +79,10 @@ Umeni ispit nosi $70$ poena.
 - 17.10.2019. [Frejzer](/courses/satr/satr03)
 - 24.10.2019. [Maret](/courses/satr/satr04)
 - 31.10.2019. [Malinovski](/courses/satr/satr05)
-- 14.11.2019. Frojd
-- 21.11.2019. Gerc
-- 21.11.2019. Robertson-Smit
-- 28.11.2019. Dirkem
+- 14.11.2019. [Frojd](/courses/satr/satr06)
+- 21.11.2019. [Gerc](/courses/satr/satr07)
+- 21.11.2019. [Robertson-Smit](/courses/satr/satr08)
+- 28.11.2019. [Dirkem](/courses/satr/satr09)
 - 05.12.2019. Veber I
 - 12.12.2019. Veber II
 - 19.12.2019. Bejnbridž i Stark I
