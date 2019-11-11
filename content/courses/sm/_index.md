@@ -83,8 +83,8 @@ Usmeni deo predstavlja proveru teorijskog znanja i nosi **30 poena**. Usmeni deo
 - 16.10.2019. [t-test 2 uzorka](/courses/sm/sm03)
 - 23.10.2019. [z-test za proporciju](/courses/sm/sm04)
 - 30.10.2019. [Priprema za I test](/courses/sm/sm05)
-- 06.11.2019. I test
-- 13.11.2019  Analiza varijanse I
+- 06.11.2019. [I test](https://s.atomasevic.com/courses/sm/i-test-rezultati/)
+- 13.11.2019  [Analiza varijanse I](/courses/sm/sm06)
 - 27.11.2019. Analiza varijanse II
 - 04.12.2019. Hi-kvadrat
 - 11.12.2019. Korelacija i regresija I
