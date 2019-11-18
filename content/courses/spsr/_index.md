@@ -72,8 +72,8 @@ Ispit je usmeni i nosi 60 poena. U sklopu usmenog ispita, studenti će odgovarat
 - 21.10.2019. [Demokratije](/courses/spsr/spsr03)
 - 28.10.2019. [Interesna udruženja](/courses/spsr/spsr04)
 - 18.11.2019. [Društveni pokreti](/courses/spsr/spsr05)
-- 25.11.2019. Politička participacija
-- 02.12.2019. Politička komunikacija
+- 25.11.2019. [Politička participacija](/courses/spsr/spsr06)
+- 02.12.2019. [Politička komunikacija](/courses/spsr/spsr07)
 - 09.12.2019. Stvaranje politika
 - 16.12.2019. Socijalna država
 - 13.01.2020. *Uticaj javnih politika
