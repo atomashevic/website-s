@@ -15,6 +15,7 @@ weight: 3
 ---
 
 [Evidencija prisustva](https://forms.gle/Q5yfFHcNoDATWhTP8)
+[Prezentacija](https://slides.com/aleksandartomasevic/sp-pokreti/fullscreen)
 
 ## Društveni pokreti
 
