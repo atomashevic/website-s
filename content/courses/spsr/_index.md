@@ -56,6 +56,8 @@ Raspored izlaganja tekstova na vežbama se formira na svake dve nedelje, kada ć
 
 ## Seminarski rad
 
+[Informacije](spsr-sem.html)
+
 Teme za pisanje seminarskog rada biće objavljene **18. novembra**. Rok za izbor i prijavu teme je **25. novembar**. Rok za slanje radne verzije eseja je **20. decembar**. Slanje radne verzije nije obavezno, ali je to prilika da dobijete povratnu informaciju i popravite vaš rad pre slanja finalne verzije.
 
 Rok za slanje finalne verzije rada je **08.01.2020.** bez obzira kada planirate da polažete ispit. Ukoliko zakasnite sa predajom rada do 3 dana, rad će biti razmatran, ali uz smanjeni broj poena. Radovi poslati 3 dana nakon isteka roka neće biti uzeti u razmatranje i neće biti ocenjeni.
