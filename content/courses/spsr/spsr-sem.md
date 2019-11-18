@@ -1,6 +1,6 @@
 ---
 title: Informacije o seminarskom radu
-linktitle: SP VII
+linktitle: Informacije o seminarskom radu
 summary: Uvodni čas
 authors: [Aleksandar Tomašević]
 tags: []
