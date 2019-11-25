@@ -21,18 +21,12 @@ weight: 3
 
 ### Uvod i koncepcijske tipologije
 
-{{< hl >}} Student: {{< /hl >}}
+{{< hl >}} Student: Radoš Anja {{< /hl >}}
 
 ### Pokazatelji političke komunikacije (do 362. strane)
 
-{{< hl >}} Student: {{< /hl >}}
+{{< hl >}} Student: Ostojić Ljiljana {{< /hl >}}
 
 ### Pokazatelji političke komunikacije (od 362. strane) + Zaključak
 
-{{< hl >}} Student:{{< /hl >}}
-
-
-
-
-
-
+{{< hl >}} Student: Milanović Tamara {{< /hl >}}

@@ -21,20 +21,15 @@ weight: 3
 
 ### Uvod i oblici političke participacije
 
-{{< hl >}} Student: {{< /hl >}}
+{{< hl >}} Student: Vlaisavljević Jasmina {{< /hl >}}
 
 ### Odrednice političke participacije
 
-{{< hl >}} Student: {{< /hl >}}
+{{< hl >}} Student: Stanković Jovana {{< /hl >}}
 
 
-{{< hl >}} Student: {{< /hl >}}
+{{< hl >}} Student: Menđan Stefan {{< /hl >}}
 
 ### Objašnjenje na mikronivou + Zaključak
 
-{{< hl >}} Student: {{< /hl >}}
-
-
-
-
-
+{{< hl >}} Student: Madžarević Sara {{< /hl >}}
