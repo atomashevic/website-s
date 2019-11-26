@@ -28,7 +28,7 @@ Osnovni cilj kursa jeste upoznavanje studenata sa bazičnim tehnikama kvantitati
 
 U toku kursa biće korišćeni popisni podaci Republike Srbije iz 2002. i 2012. godine i *online* platforma [DevInfo](http://devinfo.stat.gov.rs/Opstine/libraries/aspx/Home.aspx).
 
-Na časovima vežbi, kao i na testovima, **obavezno** ponesite digitron. 
+Na časovima vežbi, kao i na testovima, **obavezno** ponesite digitron.
 
 {{% alert warning %}}
 Prisustvo vežbama je beskorisno bez digitrona i bez aktivnog uključivanja u nastavu  jer ukoliko ne pokušavate sami da primenite prikazane formule i dođete do zaključaka o prikazanim podacima, nećete uspeti da savladate gradivo.
@@ -41,7 +41,7 @@ Prisustvo vežbama je beskorisno bez digitrona i bez aktivnog uključivanja u na
 - A. Wertheimer-Baletić. *Stanovništvo i razvoj*. Zagreb: MATE. [^1]
 
 {{% alert note %}}
-Za ovaj kurs potrebna vam je samo deo pomenutog udžbenika: od strane 197 do strane 393 (uključujući i same te stranice). 
+Za ovaj kurs potrebna vam je samo deo pomenutog udžbenika: od strane 197 do strane 393 (uključujući i same te stranice).
 {{% /alert %}}
 
 [^1]: Dostupno u kopirnici fakulteta
@@ -50,8 +50,8 @@ Za ovaj kurs potrebna vam je samo deo pomenutog udžbenika: od strane 197 do str
 
 - Prisustvo vežbama $\Rightarrow 5$ poena
 - Prisustvo predavanjima $\Rightarrow 5$ poena
-- Domaći zadaci $\Rightarrow 5 \times 2 = 10$  poena
-- Testovi $\Rightarrow 15 \times 2 = 30$ 
+- Domaći zadatak $\Rightarrow 10 \times 1 = 10$  poena
+- Testovi $\Rightarrow 15 \times 2 = 30$
 
 Maksimalan broj predispitnih predispitnih poena: **50**
 
@@ -85,11 +85,9 @@ Da biste položili ispit potrebno je zadovoljiti dva uslova.
 
 ## Domaći zadatak
 
-Domaći zadatak predstavlja samostani rad studenta na dodeljenom demografskom problemu. 
+Domaći zadatak predstavlja samostani rad studenta na dodeljenom demografskom problemu.
 
-Prvi domaći zadatak biće podeljen 28.11.2019. godine na času vežbi, a predaje se 12.12.2019. godine, takođe na času vežbi.
-
-Drugi domaći zadatak biće podeljen 12.12.2019. godine na času vežbi, a predaje se 09.01.2020. godine, takođe na času vežbi.
+Domaći zadatak biće podeljen 12.12.2019. godine na času vežbi, a predaje se 09.01.2020. godine, takođe na času vežbi.
 
 *Nije moguće preuzeti, niti predati domaći zadatak van pomenutih časova!*
 
@@ -105,7 +103,6 @@ Drugi domaći zadatak biće podeljen 12.12.2019. godine na času vežbi, a preda
 - 21.11.2019. [Mortalitet II]((https://s.atomasevic.com/courses/example/example8/))
 - 28.11.2019. Migracije I
 - 05.12.2019. Migracije II
-- 12.12.2019. Starosna struktura stanovništva
-- 19.12.2019. Ekonomska struktura stanovništva
-- 09.01.2020. Priprema za II test
-- 16.01.2020. II test
+- 12.12.2019. Starosna i polna struktura stanovništva
+- 19.12.2019. Priprema za II test
+- 09.01.2020. II test

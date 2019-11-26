@@ -85,9 +85,9 @@ Umeni ispit nosi $70$ poena.
 - 28.11.2019. [Dirkem](/courses/satr/satr09)
 - 05.12.2019. Veber I
 - 12.12.2019. Veber II
-- 19.12.2019. Bejnbridž i Stark I
-- 09.01.2020. Bejnbridž i Stark I
-- 16.01.2019. Upis predispitnih poena
+- 19.12.2019. Bejnbridž i Stark
+- 09.01.2020. Upis predispitnih poena
+
 
 ## Literatura za vežbe
 
@@ -120,4 +120,3 @@ Umeni ispit nosi $70$ poena.
 - Bejndbridž i Stark, {{% staticref "files/satr-bs-2.pdf" "newtab" %}} Cult Formation: Three Compatible Models {{% /staticref %}} (ENG).
 
 - Stark, {{% staticref "files/satr-sta.pdf" "newtab" %}} Micro Foundations of Religion: A Revised Theory {{% /staticref %}} (ENG).
-

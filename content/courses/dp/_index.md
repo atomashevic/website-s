@@ -39,7 +39,7 @@ Maksimalan broj predispitnih predispitnih poena: **40**
 
 # Aktivnost na vežbama
 
-Aktivnost na vežbama odnosi se na čitanje literature koja je predviđena za časove vežbi, prezentaciju pročitanih tekstova na času, kao i učešće u diskusiji. 
+Aktivnost na vežbama odnosi se na čitanje literature koja je predviđena za časove vežbi, prezentaciju pročitanih tekstova na času, kao i učešće u diskusiji.
 
 Raspored izlaganja tekstova na vežbama se formira na svake dve nedelje, kada će biti podeljena zaduženja i zadaci za naredna dva časa, počevši od uvodnog časa.
 
@@ -59,7 +59,7 @@ Rok za slanje finalne verzije rada je **08.01.2020.** bez obzira kada planirate 
 
 ## Ispit
 
-Pismeni ispit se sastoji iz dva dela, pri čemu svaki deo nosi 30 poena. Morate položiti svaki deo da biste položili ispit. 
+Pismeni ispit se sastoji iz dva dela, pri čemu svaki deo nosi 30 poena. Morate položiti svaki deo da biste položili ispit.
 
 U svakom ispitnom roku, možete polagati oba dela ispita ili samo jedan deo. Ukoliko polažete *samo I deo* ispita, niste obavezni da prijavite ispit u tom roku. Ukoliko polažete oba dela ili samo II deo (nakon položenog prvog dela), morate prijaviti ispit.
 
@@ -75,12 +75,8 @@ Prvi deo ispita takođe možete polagati u jednom od dva termina tokom semestra.
 - 15.11.2019. [Albert Koen](/courses/dp/dp06)
 - 22.11.2019. [Hauard Beker](/courses/dp/dp07)
 - 28.11.2019. **Kolokvijum** (I deo ispita u terminu predavanja)
-- 29.11.2019. Politička ekonomija kriminaliteta i kritička kriminologija
-- 06.12.2019. Kontrolna teorija delinkencije
-- 13.12.2019. *Teme za seminarske radove i eseje*
+- 06.12.2019. Politička ekonomija kriminaliteta i kritička kriminologija
+- 13.12.2019. Kontrolna teorija delinkvencije
 - 20.12.2019. Brajtvejt i Kordela
-- 10.01.2019. Diskusija o esejima
-- 16.01.2019. **Kolokvijum** (I deo ispita u terminu predavanja)
-
-
-
+- 10.01.2019. Dodatne teme
+- 09.01.2019. **Kolokvijum** (I deo ispita u terminu predavanja)
