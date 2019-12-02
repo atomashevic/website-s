@@ -24,7 +24,7 @@ menu:
 
 ## Osnovne informacije
 
-Osnovni cilj kursa jeste upoznavanje studenata sa statističkim zaključivanjem i metodama statističkog zaključivanja na osnovu uzoraka u društvenim naukama. 
+Osnovni cilj kursa jeste upoznavanje studenata sa statističkim zaključivanjem i metodama statističkog zaključivanja na osnovu uzoraka u društvenim naukama.
 
 Zadaci na ovom kursu su problemski orijentisani i zahtevaju preciznu, smislenu i detaljnu **interpretaciju** metoda i dobijenih rezultata u cilju formulisanja **zaključaka**, odnosno **odgovora** na postavljeni problem.
 
@@ -40,7 +40,7 @@ Zadaci na ovom kursu su problemski orijentisani i zahtevaju preciznu, smislenu i
 - Prisustvo vežbama $\Rightarrow 5$ poena
 - Prisustvo predavanjima $\Rightarrow 5$ poena
 - Domaći zadaci $\Rightarrow 5 \times 2 = 10$  poena
-- Testovi $\Rightarrow 15 \times 2 = 30$ 
+- Testovi $\Rightarrow 15 \times 2 = 30$
 
 Maksimalan broj predispitnih predispitnih poena: **50**
 
@@ -53,7 +53,7 @@ Drugi test biće održan **15.01.2020.**
 
 ## Domaći zadatak
 
-Domaći zadatak predstavlja samostani rad studenta na dodeljenom statističkom problemu. 
+Domaći zadatak predstavlja samostani rad studenta na dodeljenom statističkom problemu.
 
 Prvi domaći zadatak biće podeljen 27.11.2019. godine na času vežbi, a predaje se 11.12.2019. godine, takođe na času vežbi.
 
@@ -86,9 +86,8 @@ Usmeni deo predstavlja proveru teorijskog znanja i nosi **30 poena**. Usmeni deo
 - 06.11.2019. [I test](https://s.atomasevic.com/courses/sm/i-test-rezultati/)
 - 13.11.2019  [Analiza varijanse I](/courses/sm/sm06)
 - 27.11.2019. Analiza varijanse II
-- 04.12.2019. Hi-kvadrat
-- 11.12.2019. Korelacija i regresija I
-- 18.12.2019. Korelacija i regresija II
+- 04.12.2019. Korelacija i regresija I
+- 11.12.2019. Korelacija i regresija II
+- 18.12.2019. Hi-kvadrat
 - 08.01.2020. Priprema za II test
 - 15.01.2020. II test
-

@@ -78,4 +78,4 @@ Ispit je usmeni i nosi 60 poena. U sklopu usmenog ispita, studenti će odgovarat
 - 02.12.2019. [Politička komunikacija](/courses/spsr/spsr07)
 - 09.12.2019. [Stvaranje politika](/courses/spsr/spsr08)
 - 16.12.2019. [Socijalna država](/courses/spsr/spsr09)
-- 13.01.2020. [Uticaj javnih politika]((/courses/spsr/spsr10))
+- 13.01.2020. [Uticaj javnih politika](/courses/spsr/spsr10)
