@@ -49,7 +49,7 @@ Maksimalan broj predispitnih predispitnih poena: **40**
 
 ## Aktivnost na vežbama
 
-Aktivnost na vežbama odnosi se na čitanje literature koja je predviđena za časove vežbi, prezentaciju pročitanih tekstova na času, kao i učešće u diskusiji. 
+Aktivnost na vežbama odnosi se na čitanje literature koja je predviđena za časove vežbi, prezentaciju pročitanih tekstova na času, kao i učešće u diskusiji.
 
 Raspored izlaganja tekstova na vežbama se formira na svake dve nedelje, kada će biti podeljena zaduženja i zadaci za naredna dva časa, počevši od uvodnog časa.
 
@@ -76,9 +76,6 @@ Ispit je usmeni i nosi 60 poena. U sklopu usmenog ispita, studenti će odgovarat
 - 18.11.2019. [Društveni pokreti](/courses/spsr/spsr05)
 - 25.11.2019. [Politička participacija](/courses/spsr/spsr06)
 - 02.12.2019. [Politička komunikacija](/courses/spsr/spsr07)
-- 09.12.2019. Stvaranje politika
-- 16.12.2019. Socijalna država
-- 13.01.2020. *Uticaj javnih politika
-
-
-
+- 09.12.2019. [Stvaranje politika](/courses/spsr/spsr08)
+- 16.12.2019. [Socijalna država](/courses/spsr/spsr09)
+- 13.01.2020. [Uticaj javnih politika]((/courses/spsr/spsr10))
