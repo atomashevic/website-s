@@ -37,7 +37,7 @@ Osnovni cilj nastave na vežbama jeste upoznavanje studenata sa osnovnim teorijs
 Maksimalan broj predispitnih predispitnih poena: **40**
 
 
-# Aktivnost na vežbama
+## Aktivnost na vežbama
 
 Aktivnost na vežbama odnosi se na čitanje literature koja je predviđena za časove vežbi, prezentaciju pročitanih tekstova na času, kao i učešće u diskusiji.
 
@@ -51,7 +51,7 @@ Teme za kratke seminarske radove biće podeljene **13. decembra** studentima koj
 
 Rok za predaju kratkog seminarskih radova je **08.01.2020.** Radovi poslati nakon tog datuma neće biti ocenjivani.
 
-# Esej
+## Esej
 
 Teme za pisanje eseja biće objavljene **6. decembra**. Rok za izbor i prijavu teme je **13. decembar**. Rok za slanje radne verzije eseja je **20. decembar**. Slanje radne verzije nije obavezno, ali je to prilika da dobijete povratnu informaciju i popravite vaš rad pre slanja finalne verzije.
 
@@ -75,8 +75,8 @@ Prvi deo ispita takođe možete polagati u jednom od dva termina tokom semestra.
 - 15.11.2019. [Albert Koen](/courses/dp/dp06)
 - 22.11.2019. [Hauard Beker](/courses/dp/dp07)
 - 28.11.2019. **Kolokvijum** (I deo ispita u terminu predavanja)
-- 06.12.2019. Politička ekonomija kriminaliteta i kritička kriminologija
-- 13.12.2019. Kontrolna teorija delinkvencije
-- 20.12.2019. Brajtvejt i Kordela
+- 06.12.2019. [Politička ekonomija kriminaliteta i kritička kriminologija](/courses/dp/dp08)
+- 13.12.2019. [Kontrolna teorija delinkvencije](/courses/dp/dp09)
+- 20.12.2019. [Brajtvejt i Kordela](/courses/dp/dp10)
 - 10.01.2019. Dodatne teme
 - 09.01.2019. **Kolokvijum** (I deo ispita u terminu predavanja)
