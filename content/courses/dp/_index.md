@@ -78,5 +78,5 @@ Prvi deo ispita takođe možete polagati u jednom od dva termina tokom semestra.
 - 06.12.2019. [Politička ekonomija kriminaliteta i kritička kriminologija](/courses/dp/dp08)
 - 13.12.2019. [Kontrolna teorija delinkvencije](/courses/dp/dp09)
 - 20.12.2019. [Brajtvejt i Kordela](/courses/dp/dp10)
-- 10.01.2019. Dodatne teme
+- 10.01.2019. [Dodatne teme](/courses/dp/dp11)
 - 09.01.2019. **Kolokvijum** (I deo ispita u terminu predavanja)

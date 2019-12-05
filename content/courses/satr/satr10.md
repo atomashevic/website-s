@@ -20,8 +20,8 @@ weight: 9
 
 ### Uvodni tekst
 
-{{< hl >}} Studenti: Mitić Milana{{< /hl >}}
+{{< hl >}} Student: Mitić Milana{{< /hl >}}
 
 ### Privredna etika svetskih religija
 
-{{< hl >}} Studenti: Cvetić Aleksandra{{< /hl >}}
+{{< hl >}} Student: Cvetić Aleksandra{{< /hl >}}
