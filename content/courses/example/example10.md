@@ -20,4 +20,4 @@ weight: 2
 
 [Evidencija prisustva](https://forms.gle/t2dR6nUfJ5oPhFVT6)
 
-[Prezentacija](/files/od-05.pdf)
+[Prezentacija](/files/od-07.pdf)
