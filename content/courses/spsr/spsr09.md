@@ -21,16 +21,16 @@ weight: 3
 
 ### Uvod i nastanak
 
-{{< hl >}} Student:{{< /hl >}}
+{{< hl >}} Student: Vuletić Jovana{{< /hl >}}
 
 ### Širenje
 
-{{< hl >}} Student:  {{< /hl >}}
+{{< hl >}} Student: Veličković Divna  {{< /hl >}}
 
 ### Razlike i učinak
 
-{{< hl >}} Student: {{< /hl >}}
+{{< hl >}} Student: Hinić Ines {{< /hl >}}
 
 ### Izazovi i zaključak
 
-{{< hl >}} Student: {{< /hl >}}
+{{< hl >}} Student: Nikolić Mina{{< /hl >}}

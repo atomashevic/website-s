@@ -21,12 +21,12 @@ weight: 3
 
 ### Uvod i koncepcijski modeli
 
-{{< hl >}} Student: {{< /hl >}}
+{{< hl >}} Student: Borojević Vanja {{< /hl >}}
 
 ### Policy ciklus
 
-{{< hl >}} Student:{{< /hl >}}
+{{< hl >}} Student: Rac Slađana{{< /hl >}}
 
 ### Institucije + policy stilovi
 
-{{< hl >}} Student: {{< /hl >}}
+{{< hl >}} Student: Lazić Uroš {{< /hl >}}

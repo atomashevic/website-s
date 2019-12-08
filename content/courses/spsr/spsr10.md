@@ -21,16 +21,16 @@ weight: 3
 
 ### Uvod i ekonomske paradigme
 
-{{< hl >}} Student:{{< /hl >}}
+{{< hl >}} Student: Vukosavljević Ivana{{< /hl >}}
 
 ### Režimi socijalne zaštite
 
-{{< hl >}} Student:  {{< /hl >}}
+{{< hl >}} Student: Babović Sara i Uzon Anela  {{< /hl >}}
 
 ### Napetost između SZ i ekonomske učinkovitosti
 
-{{< hl >}} Student: {{< /hl >}}
+{{< hl >}} Student: Štandi Ana {{< /hl >}}
 
 ### Povratna veza + zaključak
 
-{{< hl >}} Student: {{< /hl >}}
+{{< hl >}} Student: Kamanj Jozefina {{< /hl >}}
