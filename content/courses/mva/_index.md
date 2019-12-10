@@ -69,15 +69,15 @@ Usmeni ispit sastoji se od prezentacije multivarijacionog modela na analiziranim
 ## Raspored časova vežbi
 
 - 04.10.2019. Uvodni čas
-- 11.10.2019. Višestruka regresija I
-- 18.10.2019. Višestruka regresija II
-- 25.10.2019. Logistička regresija I
-- 01.11.2019. Logistička regresija II
-- 15.11.2019. Prezentacija domaćeg zadatka I
-- 22.11.2019. Prezentacija domaćeg zadatka I
-- 29.11.2019. MANOVA I
-- 06.12.2019. Faktorska analiza
-- 13.12.2019. MANOVA
-- 20.12.2019. Vežbanje
+- 11.10.2019. /
+- 18.10.2019. /
+- 25.10.2019. /
+- 01.11.2019. /
+- 15.11.2019. /
+- 22.11.2019. /
+- 29.11.2019. /
+- 06.12.2019. [Faktorska analiza I](mva03.html)
+- 13.12.2019. Faktorska analiza II
+- 20.12.2019. MANOVA
 - 10.12.2019. Vežbanje
 - 17.12.2019. Vežbanje
