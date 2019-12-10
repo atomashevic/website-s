@@ -53,7 +53,7 @@ Maksimalan broj predispitnih predispitnih poena: **40**
 
 ## Domaći zadatak
 
-Domaći zadatak predstavlja samostani rad studenta na dodeljenom statističkom problemu. 
+Domaći zadatak predstavlja samostani rad studenta na dodeljenom statističkom problemu.
 
 Prvi domaći zadatak biće podeljen 01.11.2019. godine na času vežbi.
 
@@ -76,9 +76,8 @@ Usmeni ispit sastoji se od prezentacije multivarijacionog modela na analiziranim
 - 15.11.2019. Prezentacija domaćeg zadatka I
 - 22.11.2019. Prezentacija domaćeg zadatka I
 - 29.11.2019. MANOVA I
-- 06.12.2019. MANOVA II
-- 13.12.2019. Faktorska analiza I
-- 20.12.2019. Faktorska analiza II
-- 10.12.2019. Prezentacija domaćeg zadatka II
-- 17.12.2019. Prezentacija domaćeg zadatka II
-
+- 06.12.2019. Faktorska analiza
+- 13.12.2019. MANOVA
+- 20.12.2019. Vežbanje
+- 10.12.2019. Vežbanje
+- 17.12.2019. Vežbanje
