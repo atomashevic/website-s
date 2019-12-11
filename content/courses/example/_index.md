@@ -100,9 +100,9 @@ Domaći zadatak biće podeljen 12.12.2019. godine na času vežbi, a predaje se 
 - 31.10.2019. [Priprema za I test](https://s.atomasevic.com/courses/example/example6/)
 - 07.11.2019. [I test](https://s.atomasevic.com/courses/example/i-test-rez/)
 - 14.11.2019. [Mortalitet I](https://s.atomasevic.com/courses/example/example7/)
-- 21.11.2019. [Mortalitet II]((https://s.atomasevic.com/courses/example/example8/))
+- 21.11.2019. [Mortalitet II](https://s.atomasevic.com/courses/example/example8/)
 - 28.11.2019. Migracije I
 - 05.12.2019. Migracije II
-- 12.12.2019. [Starosna i polna struktura stanovništva](/example11.html)
+- 12.12.2019. [Starosna i polna struktura stanovništva](https://s.atomasevic.com/courses/example/example11/)
 - 19.12.2019. Priprema za II test
 - 09.01.2020. II test
