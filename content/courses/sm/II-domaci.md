@@ -17,7 +17,7 @@ weight: 15
 
 ## Zadaci
 
-** Nema podele u grupe za II domaći zadatak, svi radite isti**
+**Nema podele u grupe za II domaći zadatak, svi radite isti**
 
 
 [II domaći zadatak](/files/sm-d-02.pdf)
