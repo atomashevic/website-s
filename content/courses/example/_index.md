@@ -60,7 +60,7 @@ Maksimalan broj predispitnih predispitnih poena: **50**
 
 Prvi test biće održan **07.11.2019.**
 
-Drugi test biće održan **16.01.2020.**
+Drugi test biće održan **09.01.2020.**
 
 Testovi obuhvataju praktični deo kursa i podrazumevaju rešavanje zadataka i zaključivanje na osnovu demografskih podataka.
 
@@ -74,6 +74,22 @@ Literatura za teorijski deo testa:
 - Komponente prirodnog kretanja stanovništva (str. 204 – 208)
 - Natalitet i fertilitet (str. 208 – 226)
 
+### II test
+
+Literatura za teorijski deo testa:
+
+- Mortalitet i njegove odrednice, 237-251
+- Osnovni pojmovi u analizi migracija, 281-283
+_ Migracijska tranzicija (Zelinski i Ravenštajn), 286-293
+- Tipologija migracija, 300-306
+- Selektivnost migracija, 306-310
+- Unutrašnje i spoljašnje migracije, 314-322
+- Međuzavisnost kretanja stanovništva i promene strukture stanovništva, 333-334
+- Struktura stanovništva – definicija i klasifikacija, 334-335
+- Struktura stanovništva prema polu i starosti, 335-360
+- Tipovi starosne strukture stanovništva, 362-369
+- Demografske i ekonomske implikacije starenja stanovništva, 390-393
+
 ## Ispit
 
 Ispit je pismeni i nosi 50 poena. Na ispitu se proverava teorijsko znanje o osnovnim demografskim pojmovima, procesima, strukturama i problemima.
@@ -82,6 +98,10 @@ Da biste položili ispit potrebno je zadovoljiti dva uslova.
 
 1. Na ispitu se osvojili minimum 25 poena.
 2. Zbir ispitnih i predispitnih poena iznosi minimum 51 poen.
+
+### Ispitno gradivo
+
+Ispit je teorijski i sadrži kombinovano teorijsko gradivo za I i II test.
 
 ## Domaći zadatak
 
