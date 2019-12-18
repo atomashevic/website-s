@@ -80,7 +80,7 @@ Literatura za teorijski deo testa:
 
 - Mortalitet i njegove odrednice, 237-251
 - Osnovni pojmovi u analizi migracija, 281-283
-_ Migracijska tranzicija (Zelinski i Ravenštajn), 286-293
+- Migracijska tranzicija (Zelinski i Ravenštajn), 286-293
 - Tipologija migracija, 300-306
 - Selektivnost migracija, 306-310
 - Unutrašnje i spoljašnje migracije, 314-322
