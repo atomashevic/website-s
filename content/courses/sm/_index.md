@@ -89,5 +89,5 @@ Usmeni deo predstavlja proveru teorijskog znanja i nosi **30 poena**. Usmeni deo
 - 04.12.2019. [Korelacija i regresija I](/courses/sm/sm07)
 - 11.12.2019. [Korelacija i regresija II](/courses/sm/sm08)
 - 18.12.2019. [Hi-kvadrat](/courses/sm/sm09)
-- 08.01.2020. Priprema za II test
+- 08.01.2020. [Priprema za II test](/courses/sm/sm10)
 - 15.01.2020. II test
