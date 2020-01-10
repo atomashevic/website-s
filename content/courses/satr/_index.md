@@ -21,6 +21,10 @@ menu:
     name: Silabus
     weight: 1
 ---
+## Predispitni poeni
+
+[Tabela predispitnih poena](/courses/satr/satr-pip)
+
 
 ## Osnovne informacije
 
