@@ -39,7 +39,7 @@ Tabela predispitnih poena nije konačna, jer je uz opravdanje nekolicini kolega 
 |    Košanin Andrea    	|      0     	|   3   	|     15    	|      8     	|  26 	|
 |   Kovačević Nataša   	|      4     	|   5   	|     16    	|     10     	|  35 	|
 |  Krivokapić Ksenija  	|      0     	|   4   	|     17    	|     10     	|  31 	|
-|      Krušić Sara     	|      2     	|   5   	|     14    	|      9     	|  30 	|
+|      Krušić Sara     	|      2     	|   5   	|     16    	|      9     	|  32 	|
 |     Kusalo Marija    	|      3     	|   4   	|     12    	|      8     	|  27 	|
 |    Lazarević Tara    	|      5     	|   2   	|     15    	|      8     	|  30 	|
 |      Lukač Dunja     	|      5     	|   5   	|     16    	|      7     	|  33 	|
