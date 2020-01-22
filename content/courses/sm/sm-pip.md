@@ -34,7 +34,7 @@ Nijedna predispitna obaveza zasebno nije uslov za izlazak na ispit. Na ispit mog
 |   Kostić Svetlana   	|      5     	|   5   	|    0   	|    0    	|     5    	|     5     	|   20   	|
 |  Kovačević Mihajlo  	|      0     	|   0   	|    0   	|    0    	|     0    	|     0     	|    0   	|
 |   Mastilović Maša   	|      2     	|   5   	|   15   	|    14    	|     5    	|     5     	|   46   	|
-|   Mijatović Milica  	|      5     	|   4   	|    9   	|    0    	|     5    	|     0     	|   23   	|
+|   Mijatović Milica  	|      5     	|   4   	|    9   	|    7    	|     5    	|     0     	|   30  	|
 |  Mišković Natalija  	|      2     	|   3   	|   11   	|    0    	|     5    	|     5     	|   26   	|
 |  Nedeljković Milica 	|      0     	|   3   	|    0   	|    0    	|     5    	|     5     	|   13   	|
 |     Perišić Uroš    	|      2     	|   2   	|    4   	|    2    	|     5    	|     0     	|   15   	|
