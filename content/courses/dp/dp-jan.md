@@ -15,7 +15,7 @@ weight: 8
 ---
 # Informacije
 
-Ukoliko želite da poništite ocenu, javite mi vašu odluku na mail. Poništavanje ocene znači da ponovo polažete I i II deo ispita.
+Ukoliko želite da poništite ocenu, javite mi vašu odluku na mail do 12h u petak (24. januar). Poništavanje ocene znači da ponovo polažete I i II deo ispita.
 
 Upis ocene možete obaviti tako što ćete pronaći profesore Škorića ili Kišjuhasa u nekom od termina njihovih ispita u februarkskom roku ili u terminu konsultacija/predavanja u letnjem semestru.
 
