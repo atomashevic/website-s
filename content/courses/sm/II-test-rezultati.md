@@ -3,7 +3,7 @@ title: Rezultati II testa
 linktitle: II test - Rezultati
 summary: Treći čas
 authors: [Aleksandar Tomašević]
-tags: [prezentacija]
+tags: [poeni]
 categories: []
 url_slides: "/files/sm-03.pdf"
 toc: true  # Show table of contents? true/false
