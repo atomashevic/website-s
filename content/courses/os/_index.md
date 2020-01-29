@@ -9,7 +9,7 @@ title: Silabus
 tags: [silabus]
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
-draft: false  # Is this a draft? true/false
+draft: true  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
@@ -32,8 +32,12 @@ Zadaci na ovom kursu su problemski orijentisani i zahtevaju preciznu, smislenu i
 
 - Beleške i prezentacije sa vežbi
 - Beleške i prezentacije sa predavanja
-- SPSS priručnik za preživljavanje
-- Žižić, Pavlić, Lovričić. *Metodi statističke analize*. Beograd: Ekonomski fakultet.
+- [SPSS priručnik za preživljavanje](https://s.atomasevic.com/files/os-spss.pdf) [^1]
+- Žižić, Pavlić, Lovričić. *Metodi statističke analize*. Beograd: Ekonomski fakultet. [^2]
+
+[^1]: Novije izdanje dostupno u seminarskoj biblioteci
+
+[^2]: Dostupno u kopirnici fakulteta.
 
 
 ## Struktura predispitnih poena
