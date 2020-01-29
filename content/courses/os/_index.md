@@ -39,6 +39,14 @@ Zadaci na ovom kursu su problemski orijentisani i zahtevaju preciznu, smislenu i
 
 [^2]: Dostupno u kopirnici fakulteta.
 
+## Podaci
+
+Matricu podataka koju ćemo koristiti tokom ovog kursa možete pronaći [ovde](https://s.atomasevic.com/files/ess.sav).
+
+## SPSS
+
+Uskoro ćete biti obavešteni na koji način možete nabaviti SPSS za korišćenje na vašim računarima.
+
 
 ## Struktura predispitnih poena
 
