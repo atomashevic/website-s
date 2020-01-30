@@ -9,7 +9,7 @@ title: Silabus
 tags: [silabus]
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
-draft: true  # Is this a draft? true/false
+draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
@@ -45,7 +45,7 @@ Matricu podataka koju ćemo koristiti tokom ovog kursa možete pronaći [ovde](h
 
 ## SPSS
 
-Uskoro ćete biti obavešteni na koji način možete nabaviti SPSS za korišćenje na vašim računarima.
+Upustvo za instalaciju SPSS-a možete pronaći [ovde](https://s.atomasevic.com/files/os-instalacija.pdf).
 
 
 ## Struktura predispitnih poena
@@ -80,7 +80,7 @@ Da biste položili ispit morate ispuniti dva uslova:
 
 ## Raspored časova vežbi
 
-- 18.02.2020. Uvod u SPSS
+- 18.02.2020. [Uvod u SPSS](os01.html)
 - 25.02.2020. Grafički prikazi podataka
 - 03.03.2020. Mere centralne tendencije
 - 10.03.2020. Mere varijabiliteta
