@@ -5,7 +5,7 @@ summary: OAS Socijalni rad, I godina, letnji semestar
 weight: 1
 
 # Page metadata.
-title: Silabus
+title: Osnove statistike - Silabus
 tags: [silabus]
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
