@@ -81,7 +81,7 @@ Da biste položili ispit morate ispuniti dva uslova:
 ## Raspored časova vežbi
 
 - 18.02.2020. [Uvod u SPSS](os01.html)
-- 25.02.2020. Grafički prikazi podataka
+- 25.02.2020. [Grafički prikazi podataka](os02.html)
 - 03.03.2020. Mere centralne tendencije
 - 10.03.2020. Mere varijabiliteta
 - 17.03.2020. Mere oblika rasporeda
