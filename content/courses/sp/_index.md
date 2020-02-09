@@ -9,7 +9,7 @@ title: Silabus
 tags: [silabus]
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
-draft: true  # Is this a draft? true/false
+draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
@@ -83,6 +83,6 @@ Ispit je usmeni i nosi 60 poena.
 - 25.03.2020. Političke partije
 - 22.04.2020. Partijski sistemi
 - 29.04.2020. Evropeizacija politike I
-- 06.05.2020. Evrpeizacija politike II
+- 06.05.2020. Evropeizacija politike II
 - 13.05.2020. Evropeizacija politike III
 - 20.05.2002. Evropska unija
