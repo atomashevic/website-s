@@ -16,7 +16,7 @@ weight: 1
 
 [Evidencija prisustva](https://forms.gle/KzYruv84nTmFbk6e6)
 
-[Prezentacija](s.atomasevic.com/files/sp-01-p.pdf)
+[Prezentacija](https://s.atomasevic.com/files/sp-01-p.pdf)
 
 ## Nacionalne države
 
