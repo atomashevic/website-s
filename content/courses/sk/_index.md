@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Sociologija kulture
 summary: OAS Sociologija, II godina, letnji semestar
-weight: 4
+weight: 3
 
 # Page metadata.
 title: Silabus
@@ -68,7 +68,7 @@ Umeni ispit nosi $70$ poena.
 - 19.02.2020.  [Uvodni čas](sk-01.html)
 - 26.02.2020. [Eliot](sk-02.html)
 - 04.03.2020. [Vilijams](sk-03.html)
-- 11.03.2020. Kloskovska
+- 11.03.2020. [Kloskovska](sk-04.html)
 - 18.03.2020. Gerc
 - 25.03.2020. Kulturna inteligencija
 - 22.04.2020. Multikulturalizam
