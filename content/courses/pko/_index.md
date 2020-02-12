@@ -1,8 +1,8 @@
 ---
 # Course title, summary, and position.
-linktitle: Popularna kultura (nesociolozi)
+linktitle: Popularna kultura - Ostali
 summary: OAS letnji semestar
-weight: 11
+weight: 5
 
 # Page metadata.
 title: Silabus
