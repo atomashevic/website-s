@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Sociologija politike
 summary: OAS Sociologija, IV godina, letnji semestar
-weight: 10
+weight: 3
 
 # Page metadata.
 title: Silabus
@@ -19,7 +19,7 @@ type: docs  # Do not modify.
 menu:
   sp:
     name: Silabus
-    weight: 1
+    weight: 3
 ---
 
 ## Osnovne informacije

@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Sociologija kulture
 summary: OAS Sociologija, II godina, letnji semestar
-weight: 3
+weight: 2
 
 # Page metadata.
 title: Silabus

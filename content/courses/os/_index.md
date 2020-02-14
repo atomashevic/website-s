@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Osnove statistike
 summary: OAS Socijalni rad, I godina, letnji semestar
-weight: 1
+weight: 5
 
 # Page metadata.
 title: Osnove statistike - Silabus

@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Popularna kultura - Ostali
 summary: OAS letnji semestar
-weight: 5
+weight: 6
 
 # Page metadata.
 title: Silabus
