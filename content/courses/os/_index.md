@@ -28,6 +28,13 @@ Osnovni cilj kursa jeste upoznavanje studenata sa deskriptivnom statistikom i st
 
 Zadaci na ovom kursu su problemski orijentisani i zahtevaju preciznu, smislenu i detaljnu **interpretaciju** metoda i dobijenih rezultata u cilju formulisanja **zaključaka**, odnosno **odgovora** na postavljeni problem.
 
+## Grupe na časovima vežbi
+
+ Nastava na kursu Osnove statistike počinje 18. februara kada će biti održan prvi čas vežbi. U termin grupe A dolaze studenti prve godine prezimena B-M (abecednim redom), počevši od Beneš zaključno sa Mušikić. U termin grupe B dolaze studenti prve godine prezimena N-V, počevši od Nedeljković zaključno sa Vojnović. Studenti druge godine dolaze u grupu B. Termin C je rezervisan za slučaj da ne bude dovoljno računara za sve studente iz grupe A ili B.
+
+
+
+
 ## Literatura
 
 - Beleške i prezentacije sa vežbi
