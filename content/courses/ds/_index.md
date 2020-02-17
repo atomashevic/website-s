@@ -5,7 +5,7 @@ summary: OAS Sociologija, I godina, letnji semestar
 weight: 1
 
 # Page metadata.
-title: Silabus
+title: Deskriptivna statistika - Silabus
 tags: [silabus]
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
@@ -75,7 +75,7 @@ Usmeni deo predstavlja proveru teorijskog znanja i nosi **30 poena**. Usmeni deo
 
 ## Raspored časova vežbi
 
-- 19.02.2020. [Uvodni čas](/ds01.html)
+- 19.02.2020. [Uvodni čas](ds01.html)
 - 26.02.2020. Modus i medijana
 - 04.03.2020. Aritmetička i geometrijska sredina
 - 11.03.2020. Kvartili
