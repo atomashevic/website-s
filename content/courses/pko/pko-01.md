@@ -14,6 +14,7 @@ menu:
 weight: 1
 ---
 
+[Prezentacija](/files/pk-uvod.pdf)
 
 ## Uvodni čas iz Popularne kulture
 

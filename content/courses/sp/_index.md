@@ -31,8 +31,8 @@ Osnovni cilj nastave na vežbama jeste upoznavanje studenata sa osnovama kompara
 Osnovna literatura:
 
 - [Hejvud - Politika](/files/sp-hejvud.pdf)
-- Karamani - Komparativna politika
-- Karamani - Evropeizacija politike
+- [Karamani - Komparativna politika](/files/sp-kp.pdf)
+- [Karamani - Evropeizacija politike](/files/sp-ep.pdf)
 
 
 ## Struktura predispitnih poena
