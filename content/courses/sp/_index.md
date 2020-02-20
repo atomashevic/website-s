@@ -63,7 +63,7 @@ Ispit je usmeni i nosi 60 poena.
 ## Raspored predavanja
 
 - 21.02.2020. [Država](sp01p.html)
-- 28.02.2020. Demokratije
+- 28.02.2020. [Demokratije](sp02p.html)
 - 06.03.2020. Autoritarni režimi
 - 13.03.2020. Izbori i referendumi
 - 20.03.2020. Političke partije
@@ -77,7 +77,7 @@ Ispit je usmeni i nosi 60 poena.
 
 - 19.02.2020. [Uvodni čas](sp01.html)
 - 26.02.2020. [Nacionalne države](sp02.html)
-- 04.03.2020. Demokratije
+- 04.03.2020. [Demokratije](sp03.html)
 - 11.03.2020. Autoritarni režimi
 - 18.03.2020. Izbori i referendumi
 - 25.03.2020. Političke partije
