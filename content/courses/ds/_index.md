@@ -77,7 +77,7 @@ Usmeni deo predstavlja proveru teorijskog znanja i nosi **30 poena**. Usmeni deo
 ## Raspored časova vežbi
 
 - 19.02.2020. [Uvodni čas](ds01.html)
-- 26.02.2020. Modus i medijana
+- 26.02.2020. [Modus i medijana](ds02.html)
 - 04.03.2020. Aritmetička i geometrijska sredina
 - 11.03.2020. Kvartili
 - 18.03.2020. Boks-plot
