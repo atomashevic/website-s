@@ -39,8 +39,9 @@ Zadaci na ovom kursu su problemski orijentisani i zahtevaju preciznu, smislenu i
 
 - Beleške i prezentacije sa vežbi
 - Beleške i prezentacije sa predavanja
+- **Interaktivni udžbenik**: Dejan Pajić, [Primena tehnika vizualizacije u bazičnoj statistici](http://psihologija.ff.uns.ac.rs/viz/pocetna)
 - [SPSS priručnik za preživljavanje](https://s.atomasevic.com/files/os-spss.pdf) [^1]
-- Žižić, Pavlić, Lovričić. *Metodi statističke analize*. Beograd: Ekonomski fakultet. [^2]
+
 
 [^1]: Novije izdanje dostupno u seminarskoj biblioteci
 
