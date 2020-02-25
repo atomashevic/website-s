@@ -38,6 +38,7 @@ Zadaci na ovom kursu su problemski orijentisani i zahtevaju preciznu, smislenu i
 - Beleške sa predavanja
 - Sokolovska, Valentina. *Deskriptivna statistika*. Novi Sad: Filozofski fakultet.
 - Žižić, Pavlić, Lovričić. *Metodi statističke analize*. Beograd: Ekonomski fakultet.
+- **Interaktivni udžbenik**: Dejan Pajić, [Primena tehnika vizualizacije u bazičnoj statistici](http://psihologija.ff.uns.ac.rs/viz/pocetna)
 
 
 ## Struktura predispitnih poena
