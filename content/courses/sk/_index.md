@@ -69,11 +69,11 @@ Umeni ispit nosi $70$ poena.
 - 26.02.2020. [Eliot](sk-02.html)
 - 04.03.2020. [Vilijams](sk-03.html)
 - 11.03.2020. [Kloskovska](sk-04.html)
-- 18.03.2020. Gerc
-- 25.03.2020. Kulturna inteligencija
-- 22.04.2020. Multikulturalizam
-- 29.04.2020. Transkulturna Evropa
-- 06.05.2020. Kultura sveta
-- 13.05.2020. Žil Lipovecki
+- 18.03.2020. [Gerc](sk-05.html)
+- 25.03.2020. [Kulturna inteligencija](sk-06.html)
+- 22.04.2020. [Multikulturalizam](sk-07.html)
+- 29.04.2020. [Transkulturna Evropa](sk-08.html)
+- 06.05.2020. [Kultura sveta](sk-09.html)
+- 13.05.2020. [Žil Lipovecki]((sk-10.html))
 - 20.05.2020. Upis predispitnih poena
 
