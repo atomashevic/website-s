@@ -64,14 +64,15 @@ Ispit je usmeni i nosi 60 poena.
 
 - 21.02.2020. [Država](sp01p.html)
 - 28.02.2020. [Demokratije](sp02p.html)
-- 06.03.2020. Autoritarni režimi
-- 13.03.2020. Izbori i referendumi
-- 20.03.2020. Političke partije
-- 27.03.2020. Partijski sistemi I
-- 24.04.2020. Partijski sistemi II
-- 08.05.2020. Dinamika partijskih sistema
-- 15.05.2020. Evropeizacija politike
-- 22.05.2020. Evropska unija
+- 03.03.2020. [Demokratije - nastavak](sp02p.html)
+- 10.03.2020. Autoritarni režimi
+- 17.03.2020. Izbori i referendumi
+- 24.03.2020. Političke partije
+- 21.04.2020. Partijski sistemi I
+- 28.04.2020. Partijski sistemi II
+- 05.05.2020. Dinamika partijskih sistema
+- 12.05.2020. Evropeizacija politike
+- 19.05.2020. Evropska unija
 
 ## Raspored vežbi
 
