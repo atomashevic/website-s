@@ -17,6 +17,6 @@ weight: 1
 
 ## Džon Fisk
 
-[Upitnik](https://forms.gle/TAH8FHeMhJTJqtA97)
+[Upitnik](https://forms.gle/WtUy3sb8KcdBtzKe9)
 
 [Literatura](/files/pk-fisk.pdf)
