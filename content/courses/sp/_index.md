@@ -80,7 +80,7 @@ Ispit je usmeni i nosi 60 poena.
 - 26.02.2020. [Nacionalne države](sp02.html)
 - 04.03.2020. [Demokratije](sp03.html)
 - 11.03.2020. [Autoritarni režimi](sp04.html)
-- 18.03.2020. Izbori i referendumi
+- 18.03.2020. [Izbori i referendumi](sp05.html)
 - 25.03.2020. Političke partije
 - 22.04.2020. Partijski sistemi
 - 29.04.2020. Evropeizacija politike I
