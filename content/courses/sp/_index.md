@@ -65,7 +65,7 @@ Ispit je usmeni i nosi 60 poena.
 - 21.02.2020. [Država](sp01p.html)
 - 28.02.2020. [Demokratije](sp02p.html)
 - 03.03.2020. [Demokratije - nastavak](sp02p.html)
-- 10.03.2020. Autoritarni režimi
+- 10.03.2020. [Autoritarni režimi](sp04p.html)
 - 17.03.2020. Izbori i referendumi
 - 24.03.2020. Političke partije
 - 21.04.2020. Partijski sistemi I
