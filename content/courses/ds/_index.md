@@ -79,7 +79,7 @@ Usmeni deo predstavlja proveru teorijskog znanja i nosi **30 poena**. Usmeni deo
 - 19.02.2020. [Uvodni čas](ds01.html)
 - 26.02.2020. [Modus i medijana](ds02.html)
 - 04.03.2020. [Aritmetička i geometrijska sredina](ds03.html)
-- 11.03.2020. Kvartili
+- 11.03.2020. [Kvartili](ds04.html)
 - 18.03.2020. Boks-plot
 - 25.03.2020. Priprema za I test
 - 01.04.2020. I test
