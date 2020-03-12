@@ -22,6 +22,10 @@ menu:
     weight: 1
 ---
 
+{{% alert warning %}}
+Odlukom Filozofskog fakulteta, zbog epidemije Korona virusa prisustvo nastavi se ne beleži više u ovom semestru. Niko neće imati umanjen broj poena predvđenih za nastavi ili aktivnost u toku nastave. Molim Vas da ne dolazite na fakultet ukoliko osetite bilo koji simptom virusa ili se ne osećate dobro.
+{{% /alert %}}
+
 ## Osnovne informacije
 
 Osnovni cilj kursa jeste upoznavanje studenata sa najvažnijim antropološkim i sociološkim teorijama kulture. Fokus je na teorijskom sadržaju i literatura na vežbama će pratiti razvoj najznačajnijih ideja i koncepata koji su doprineli teorijskom formiranju ove sociološke discipline.

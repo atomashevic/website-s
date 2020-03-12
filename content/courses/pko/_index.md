@@ -21,7 +21,9 @@ menu:
     name: Silabus
     weight: 1
 ---
-
+{{% alert warning %}}
+Odlukom Filozofskog fakulteta, zbog epidemije Korona virusa prisustvo nastavi se ne beleži više u ovom semestru. Niko neće imati umanjen broj poena predvđenih za nastavi ili aktivnost u toku nastave. Molim Vas da ne dolazite na fakultet ukoliko osetite bilo koji simptom virusa ili se ne osećate dobro.
+{{% /alert %}}
 
 ## Struktura predispitnih poena
 
@@ -50,7 +52,7 @@ Umeni ispit nosi $70$ poena.
 - 21.02.2020.  [Uvodni čas](pko-01.html)
 - 28.02.2020. [Stjuart Hol A](pko-02.html)
 - 06.03.2020. [Kulturna industrija B](pko-03.html)
-- 13.03.2020. [Džon Fisk C](pko-04.html)
+- **13.03.2020.** [Džon Fisk C](pko-04.html) **Čas neće biti održan!**
 - 20.03.2020. [Odbrana kulture od populista A](pko-05.html)
 - 27.03.2020. [Ukus i moda B](pko-06.html)
 - 24.04.2020. [Madona, moda i imidž C](pko-07.html)

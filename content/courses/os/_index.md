@@ -22,6 +22,10 @@ menu:
     weight: 1
 ---
 
+{{% alert warning %}}
+Odlukom Filozofskog fakulteta, zbog epidemije Korona virusa prisustvo nastavi se ne beleži više u ovom semestru. Niko neće imati umanjen broj poena predvđenih za nastavi ili aktivnost u toku nastave. Molim Vas da ne dolazite na fakultet ukoliko osetite bilo koji simptom virusa ili se ne osećate dobro.
+{{% /alert %}}
+
 ## Osnovne informacije
 
 Osnovni cilj kursa jeste upoznavanje studenata sa deskriptivnom statistikom i statističkim zaključivanjem na osnovu uzoraka u društvenim naukama. Sekundarni cilj jeste savladavanje softvera za statističku analizu *SPSS*.

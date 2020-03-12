@@ -30,6 +30,10 @@ title = "Kursevi 2019 / 2020"
 
 +++
 
+{{% alert warning %}}
+Odlukom Filozofskog fakulteta, zbog epidemije Korona virusa prisustvo nastavi se ne beleži više u ovom semestru. Niko neće imati umanjen broj poena predvđenih za nastavi ili aktivnost u toku nastave. Molim Vas da ne dolazite na fakultet ukoliko osetite bilo koji simptom virusa ili se ne osećate dobro.
+{{% /alert %}}
+
 ### [KURSEVI](https://s.atomasevic.com/courses/)
 
 
