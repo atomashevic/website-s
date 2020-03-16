@@ -23,73 +23,46 @@ menu:
 ---
 
 {{% alert warning %}}
-Odlukom Filozofskog fakulteta, zbog epidemije Korona virusa prisustvo nastavi se ne beleži više u ovom semestru. Niko neće imati umanjen broj poena predvđenih za nastavi ili aktivnost u toku nastave. Molim Vas da ne dolazite na fakultet ukoliko osetite bilo koji simptom virusa ili se ne osećate dobro.
+Redovna nastava je obustavljena zbog uvođenja vanrednog stanja u Republici Srbiji. Otkazani su fizički časovi, kao i kolokvijumi/testovi. Na ovoj stranici ćete pronaći sve informacije o izvođenju online nastave na kursu Deskriptivna statistika
 {{% /alert %}}
-
-## Osnovne informacije
-
-{{% alert note %}}
-Svi studenti dolaze u termin vežbi za grupu A. Po programu je predviđeno da čas vežbi traje 45 minuta, što je nedovoljno da obradimo sav materijal, te će vežbe trajati između 60 i 90 minuta.
-{{% /alert %}}
-
-Osnovni cilj kursa jeste upoznavanje studenata sa pojmovima, indikatorima i pokazateljima iz oblasti deskrpitivne statistike u cilju opisivanja kvalitativnih i kvantitativnih podataka u društvenim istraživanjima.
-
-Zadaci na ovom kursu su problemski orijentisani i zahtevaju preciznu, smislenu i detaljnu **interpretaciju** mera i dobijenih rezultata u cilju formulisanja **opisa** podataka, odnosno **odgovora** na postavljeni problem.
-
-## Literatura
-
-- Beleške i prezentacije sa vežbi
-- Beleške sa predavanja
-- Sokolovska, Valentina. *Deskriptivna statistika*. Novi Sad: Filozofski fakultet.
-- Žižić, Pavlić, Lovričić. *Metodi statističke analize*. Beograd: Ekonomski fakultet.
-- **Interaktivni udžbenik**: Dejan Pajić, [Primena tehnika vizualizacije u bazičnoj statistici](http://psihologija.ff.uns.ac.rs/viz/pocetna)
-
 
 ## Struktura predispitnih poena
 
-- Prisustvo vežbama $\Rightarrow 5$ poena
-- Prisustvo predavanjima $\Rightarrow 5$ poena
-- Testovi $\Rightarrow 20 \times 2 = 40$
+Svi studenti dobijaju 10 poena na prisustvo nastavi.
 
-Maksimalan broj predispitnih predispitnih poena: **50**
+Testovi će biti održani **umesto pismenog ispita** u roku u kojem ćete polagati ispit nakon obustave vanrednog stanja u Republici Srbiji.
 
+Struktura predispitnih poena u novonastalim oklonostima izgleda ovako:
 
-## Testovi
-
-Testovi sadrže teorijska pitanja i praktične zadatke. Ne postoji minimalni prag za polaganje testa, računa se svaki osvojeni poen u zbiru predispitnih poena.
-
-Prvi test biće održan **01.04.2020.**
-
-Drugi test biće održan **27.05.2020.**
+- Prisustvo: **10** poena (svi)
+- Pismeni ispit iz dva dela - svaki deo nosi **30** poena
+- Kada položite pismeni ispit, izlazite na usmeni koji nosi **30** poena
 
 
-## Ispit
 
-Ispit se sastoji iz dva dela.
+## Literatura
 
-### Pismeni ispit
+Jedina literatura koja vam je potrebna za ovaj kurs jeste knjiga profesorke Sokolovske **Deskriptivna statistika**. Možete je preuzeti u PDF-u putem [ovog linka](/files/ds-ds.pdf).
 
-Pismeni deo ispita podrazumeva rešavanje zadataka, kao i interpretaciju odgovora kroz povezivanje teorijskog dela gradiva sa praktičnim istraživačkim problemima.
+Na stranici [Materijal sa predavanja](ds-p.html) možete pronaći sva prezentacije profesorke Sokolovske.
 
-Pismeni deo ispita nosi maksimalno **20 poena**. Uslov za polaganje ovog dela ispita jeste minimum **10 poena**, nakon čega možete pristupiti polaganju usmenog dela ispita.
+### Literatura za pismeni deo ispita
 
-### Usmeni ispit
+Uskoro ćete dobiti informaciju koji delovi gradiva i udžbenika potpadaju pod koji deo pismenog ispita, kao i teme/pitanja koje učite za usmeni deo ispita.
 
-Usmeni deo predstavlja proveru teorijskog znanja i nosi **30 poena**. Usmeni deo ispita je *obavezan* i nakon položenog usmenog dela se formira ocena na osnovu svih ispitnih i predispitnih poena.
+### Zadaci
+
+Umesto časova vežbi, putem ovog sajta dobijaćete u PDF formatu rešene zadatke i zadatke za vežbanje iz svake oblasti koje ćemo raditi. Priprema ovih zadataka je u toku i biće uskoro postavljeni na sajt.
+
+## Raspored online nastave
+
+Naredni čas konsultativne nastave biće održan u **četvrtak 16.03.2020. godine** u 12h.
+
+Čas možete pratiti putem sledećeg linka: https://zoom.us/j/134783140
+
+Uputstvo za povezivanje na online platformu **Zoom** putem koje će biti održana nastava možete pročitati [ovde](ds-kons.html).
+
+Tema narednog časa je: **Apsolutne mere varijabiliteta**. Prezentaciju možete pronaći [ovde](/files/p-mr.ppt). Ova tema odgovara poglavlju 3 iz udžbenika.
 
 
-## Raspored časova vežbi
 
-- 19.02.2020. [Uvodni čas](ds01.html)
-- 26.02.2020. [Modus i medijana](ds02.html)
-- 04.03.2020. [Aritmetička i geometrijska sredina](ds03.html)
-- 11.03.2020. [Kvartili](ds04.html)
-- 18.03.2020. Boks-plot
-- 25.03.2020. Priprema za I test
-- 01.04.2020. I test
-- 22.04.2020. Apsolutne mere varijabiliteta
-- 29.04.2020. Relativne mere varijabiliteta
-- 06.05.2020. Varijabilitet kvalitativnih podataka
-- 13.05.2020. Mere oblika rasporeda
-- 20.05.2020. Priprema za II test
-- 27.05.2020. II test
