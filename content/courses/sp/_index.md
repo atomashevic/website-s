@@ -68,7 +68,7 @@ Umesto predavanja dobićete *hendaute* ili kratke skripte koje u pisanoj formi z
 
 U narednim nedeljama biće objavljeni hendauti za svaki čas predavanja.
 
-
+- [Izbori i izborni sistemi](/files/sp-izbori.pdf)
 
 ## Raspored predavanja
 
