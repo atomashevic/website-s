@@ -23,44 +23,47 @@ menu:
 ---
 
 {{% alert warning %}}
-Odlukom Filozofskog fakulteta, zbog epidemije Korona virusa prisustvo nastavi se ne beleži više u ovom semestru. Niko neće imati umanjen broj poena predvđenih za nastavi ili aktivnost u toku nastave. Molim Vas da ne dolazite na fakultet ukoliko osetite bilo koji simptom virusa ili se ne osećate dobro.
+Budući da je redovna nastava obustavljena, došlo je do promena u predispitnim obavezama. O svim izmenama bićete obaveštavani na ovoj stranici.
 {{% /alert %}}
-
-## Osnovne informacije
-
-Osnovni cilj kursa jeste upoznavanje studenata sa najvažnijim antropološkim i sociološkim teorijama kulture. Fokus je na teorijskom sadržaju i literatura na vežbama će pratiti razvoj najznačajnijih ideja i koncepata koji su doprineli teorijskom formiranju ove sociološke discipline.
 
 ## Struktura predispitnih poena
 
-- Prisustvo vežbama $\Rightarrow 5$ poena
-- Prisustvo predavanjima $\Rightarrow 5$ poena
-- Aktivnost na vežbama $\Rightarrow 10$ poena
-- Seminarski rad $\Rightarrow 10$ poena [^1]
+Svi studenti automatski dobijaju **10** poena na prisustvo predavanjima i vežbama.
 
+**Nastavljamo sa popunjavanjem upitnika**. Svi upitnici su otvoreni i za popunjavanje upitnika u zbiru možete dobiti **10** poena.
+
+Seminarski rad nosi **10** poena.
 
 Maksimalan broj predispitnih predispitnih poena: **30**
 
 
 ## Seminarski rad
 
-Seminarski rad je u formi prikaza pročitanog teksta (ili dela pročitanog teksta) i odnosi se na jedan od tekstova sa spiska šire literatre.
+Seminarski rad je u formi prikaza pročitanog teksta (ili dela pročitanog teksta) i odnosi se na jedan od tekstova sa spiska šire literatre ili **na neki od tekstova koje ste čitali na vežbama**
 
 Temu za seminarski rad možete izabrati upisivanjem vašeg imena u [tabelu](https://docs.google.com/spreadsheets/d/1p3y5w3BjxJtrAwRHxEMYm5Ugd5uHssOpIBqp8MuxW0k/edit?usp=sharing).
 
-Temu za seminarski rad možete izabrati do 08. aprila.
-
-Ukoliko želite povratnu informaciju na tekst vašeg seminarkog rada, možete poslati radnu verziju do 01. aprila.
-
-Finalni rok za slanje seminrskog rada je **08. maj**. Ukoliko pošaljete rad 3-4 dana posle roka, on će biti uzet u razmatranje, ali sa smanjenim brojem poena. Ukoliko pošaljete rad, 4+ dana nakon završetka roka, on neće biti razmatran.
-
-
-{{% alert note %}}
-Rokovi za slanje seminarskih radova su fiksni bez ozbira kada planirate da izađete na ispit.
+{{% alert warning %}}
+Ukoliko ste izabrali temu za seminarski sa gorepomenutog spiska, a niste uspeli da nabavite literaturu, umesto izabrane teme možete pisati prikaz nekog od 9 tekstova sa časova vežbi, bez ikakvog ograničenja ili uslovljavanja.
 {{% /alert %}}
+
+**Rokovi za predaju seminarskih radova više ne važe**. Zbog novonastalnih okolnosti, možete napisati seminarski rad bilo kada i predati ga **7 dana** pre nego što izađete na ispit u roku u kojem budete želeli da polažete ovaj predmet.
+
+Radne verzije možete slati kada god hoćete, a ja ću se potruditi da vam blagovremeno pošaljem komentare. Dinamika povratnih informacija zavisi od toga kada ćete i u kojoj učestalosti slati radne verzije.
+
+Seminarski rad je i dalje uslov za izlazak na ispit po izmenjenim pravilima.
 
 {{% alert warning %}}
-Seminarski rad je uslov za izlazak na ispit. Ukoliko ne pošaljete rad na vreme ili on be bude prihvaćen, nećete moći da izađete na ispit u bilo kom roku.
+Precizno uputstvo za pisanje seminarskog rada dobićete najkasnije krajem marta.
 {{% /alert %}}
+
+## Predavanja
+
+Časovi predavanja se neće održavati dok ne počne redovna nastava. Udžbenik i literatura koju vam je prosledio profesor Žolt je sasvim dovoljna za pripremu ispita. Neodržana predavanja biće uzeta u obzir prilikom usmenog ispita, te će kriterijumi ocenjivanja biti niži za one oblasti koje nisu bile pokrivene predavanjima.
+
+## Upitnici
+
+Upitnike popunjavate kao i do sada, dinamikom koja vam odgovara. Ukoliko imate bilo kakvih pitanja i nedoumica oko pročitanih tekstova, slobodno mi pišite. Ukoliko za time bude potrebe, organizovaćemo *online konsultacije* putem video linka.
 
 ## Ispit
 
@@ -69,7 +72,7 @@ Umeni ispit nosi $70$ poena.
 
 ## Raspored časova vežbi
 
-- 19.02.2020.  [Uvodni čas](sk-01.html)
+- 19.02.2020. [Uvodni čas](sk-01.html)
 - 26.02.2020. [Eliot](sk-02.html)
 - 04.03.2020. [Vilijams](sk-03.html)
 - 11.03.2020. [Kloskovska](sk-04.html)
