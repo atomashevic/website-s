@@ -56,13 +56,16 @@ Umesto časova vežbi, putem ovog sajta dobijaćete u PDF formatu rešene zadatk
 
 ## Raspored online nastave
 
-Naredni čas konsultativne nastave biće održan u **četvrtak 16.03.2020. godine** u 12h.
+Naredni čas konsultativne nastave biće održan u **četvrtak 26.03.2020. godine** u 12h.
 
-Čas možete pratiti putem sledećeg linka: https://zoom.us/j/134783140
+Čas možete pratiti putem sledećeg linka: [https://zoom.us/j/367979854](https://zoom.us/j/367979854)
 
 Uputstvo za povezivanje na online platformu **Zoom** putem koje će biti održana nastava možete pročitati [ovde](ds-kons.html).
 
 Tema narednog časa je: **Apsolutne mere varijabiliteta**. Prezentaciju možete pronaći [ovde](/files/p-mr.ppt). Ova tema odgovara poglavlju 3 iz udžbenika.
 
+### Snimci prethodnih časova
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/398986662" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/398986662">Deskriptivna statistika - Uvodni čas</a> from <a href="https://vimeo.com/user110053724">Aleksandar Toma&scaron;ević</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
