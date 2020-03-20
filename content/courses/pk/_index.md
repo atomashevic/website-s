@@ -21,9 +21,18 @@ menu:
     name: Silabus
     weight: 1
 ---
+
+# Obaveštenja
+
 {{% alert warning %}}
-Odlukom Filozofskog fakulteta, zbog epidemije Korona virusa prisustvo nastavi se ne beleži više u ovom semestru. Niko neće imati umanjen broj poena predvđenih za nastavi ili aktivnost u toku nastave. Molim Vas da ne dolazite na fakultet ukoliko osetite bilo koji simptom virusa ili se ne osećate dobro.
+Svi upitnici su otvoreni. Možete popuniti prethodno istekle upitnike i sve upitnike do kraja semestra
 {{% /alert %}}
+
+Svi dobijate 5 poena na prisustvo. U zavisnosti koliko upitnika popunite (i da li ih popunite u celosti) dobićete do 25 predispitnih poena.
+
+**Profesori** rade na udžbeniku koji će vam biti jedina potrebna i dovoljna literatura za ispit. Čim udžbenik bude gotov, dobićete ga u elektronskoj verziji, zajedno sa spiskom ispitnih pitanja.
+
+Čim budem zasnao nešto novo, preneću vam na ovoj stranici. Za sva pitanja i nedoumice pišite meni na mejl.
 
 ## Struktura predispitnih poena
 
