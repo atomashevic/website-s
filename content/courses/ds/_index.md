@@ -54,6 +54,10 @@ Uskoro ćete dobiti informaciju koji delovi gradiva i udžbenika potpadaju pod k
 
 Umesto časova vežbi, putem ovog sajta dobijaćete u PDF formatu rešene zadatke i zadatke za vežbanje iz svake oblasti koje ćemo raditi. Priprema ovih zadataka je u toku i biće uskoro postavljeni na sajt.
 
+#### Postavljeni zadaci 
+
+- 20.03.2020. [Zadaci - Mere centralne tendencije](/files/ds-z01.pdf)
+
 ## Raspored online nastave
 
 Naredni čas konsultativne nastave biće održan u **četvrtak 26.03.2020. godine** u 12h.
