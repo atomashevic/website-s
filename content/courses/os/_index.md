@@ -23,20 +23,41 @@ menu:
 ---
 
 {{% alert warning %}}
-Odlukom Filozofskog fakulteta, zbog epidemije Korona virusa prisustvo nastavi se ne beleži više u ovom semestru. Niko neće imati umanjen broj poena predvđenih za nastavi ili aktivnost u toku nastave. Molim Vas da ne dolazite na fakultet ukoliko osetite bilo koji simptom virusa ili se ne osećate dobro.
+Na ovoj stranici možete pronaći sve najvažnije informacije o izmenama u načinu rada tokom vanrednog stanja.
+
+Ukoliko vam je nešto nejasno ili imate pitanja oko gradiva ili načina rada, molim vas da me kontaktirate mejlom.
 {{% /alert %}}
 
-## Osnovne informacije
+## Promena načina rada
 
-Osnovni cilj kursa jeste upoznavanje studenata sa deskriptivnom statistikom i statističkim zaključivanjem na osnovu uzoraka u društvenim naukama. Sekundarni cilj jeste savladavanje softvera za statističku analizu *SPSS*.
+Kada su vežbe iz ovog predmeta u pitanju, svake nedelje ovde će biti postavljen video snimak demonstracije rada u SPSS-u koja pokriva celinu gradiva predviđenu za tu nedelju.
 
-Zadaci na ovom kursu su problemski orijentisani i zahtevaju preciznu, smislenu i detaljnu **interpretaciju** metoda i dobijenih rezultata u cilju formulisanja **zaključaka**, odnosno **odgovora** na postavljeni problem.
+Uz demonstraciju, dobićete i primer za vežbanje, odnosno spisak stvari koje možete probati sami da uradite na vašim računarima.
 
-## Grupe na časovima vežbi
+Kada dobijem materijal od profesora (prezentacije) on će takođe biti postavljen na sajt, zajedno sa video snimcima u okviru iste nastavne jedinice.
 
- Nastava na kursu Osnove statistike počinje 18. februara kada će biti održan prvi čas vežbi. U termin grupe A dolaze studenti prve godine prezimena B-M (abecednim redom), počevši od Beneš zaključno sa Mušikić. U termin grupe B dolaze studenti prve godine prezimena N-V, počevši od Nedeljković zaključno sa Vojnović. Studenti druge godine dolaze u grupu B. Termin C je rezervisan za slučaj da ne bude dovoljno računara za sve studente iz grupe A ili B.
+Važno je da uz praćenje snimaka, čitati naznačene delove udžbenika profesora Pajića zbog praćenja teorijskog gradiva. Literatura za svaku nedelju će vam biti posebno naznačena.
 
+**Važna promena** odnosi se na testove koji neće biti održani u toku semestra zbog vanrednog stanja. Umesto toga, testovi će biti održani u junskom ispitnom roku, pre samog ispita. Dakle, imaćete priliku da steknete predispitne poene kroz testove pre samih ispita. Testovi će biti prilagođeni gradivu i izostanku predavanja, tako da će sadržati:
 
+- teorijska pitanja na zaokruživanje (prema udžbeniku profesora Pajića)
+- zadatke koji zahtevaju rad u SPSS-u poput onih zadataka koje ćete dobiti za vežbanje uz svaku video demonstraciju
+
+Ispit će sadržati samo teorijska pitanja na zaokruživanje. Dobićete i nekoliko primera ispitnih pitanja kako biste znali šta da očekujete.
+
+Samim tim, sve što vam je neophodno jeste da pratite video demonstracije i čitate odgovarajuće delove udžbenika. Dodatni materijal koji profesori budu slali će vam biti od koristi da bolje razumete udžbenik i teorijsku pozadinu onoga što radimo u SPSS-u.
+
+## Preliminarni plan rada za naredni period
+
+Još uvek čekam detaljne informacije od profesora oko organizacije nastave u narednom periodu. Popunjavaću ovaj raspored kako informacije budu pristizale. 
+
+Raspored je prikazan po nedeljama. Vežbe će pratiti prethodnu nastavnu jedinicu sa predavanja, tj. predavanja idu jedan korak ispred vežbi.
+
+Video demonstracije će biti postavljane u **utorak ili u sredu**, zavisno od vremena koje mi je potrebno da ih pripremim.
+
+**23.03 - 29.03.**
+Vežbe: Mere oblika rasporeda
+Predavanja: Normalan raspored i Z-skorovi
 
 
 ## Literatura
@@ -67,41 +88,3 @@ Upustvo za instalaciju SPSS-a možete pronaći [ovde](https://s.atomasevic.com/f
 - Testovi $\Rightarrow 20 \times 2 = 40$
 
 Maksimalan broj predispitnih predispitnih poena: **50**
-
-
-## Testovi
-
-Testovi podrazumevaju rešavanje praktičnih problema u SPSS-u, kao i proveru poznavanja teorijskog gradiva i odgovarajućih statističkih koncepata i metoda.
-
-Minimalni broj poena na testu iznosi 0, maksimalni 20. Ne postoji prag za polaganje testa, svi poeni se računaju u ukupnom zbiru predispitnih poena.
-
-Prvi test biće održan 31.3.2020.
-
-Drugi test biće održan 26.5.2020.
-
-
-## Ispit
-
-Ispit je pismeni i na njemu se proverava poznavanje teorijskog gradiva, statističkih metoda i koncepata koji čine sadržaj ovog kursa.
-
-Da biste položili ispit morate ispuniti dva uslova:
-
-1. Na ispitnom testu imate minimalno 25 poena (od 50)
-2. U ukupnom zbiru ispitnih i predispitnih poena imate minimalno 51 poen
-
-
-## Raspored časova vežbi
-
-- 18.02.2020. [Uvod u SPSS](os01.html)
-- 25.02.2020. [Grafički prikazi podataka](os02.html)
-- 03.03.2020. Mere centralne tendencije
-- 10.03.2020. Mere varijabiliteta
-- 17.03.2020. Mere oblika rasporeda
-- 24.03.2020. Priprema za I test
-- 31.03.2020  I test
-- 21.04.2020. t-test
-- 28.04.2020. ANOVA
-- 05.05.2020. Korelacija
-- 12.05.2020. Hi-kvadrat
-- 19.05.2020. Priprema za II test
-- 26.05.2020. II test
