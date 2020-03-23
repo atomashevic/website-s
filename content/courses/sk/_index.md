@@ -53,9 +53,19 @@ Radne verzije možete slati kada god hoćete, a ja ću se potruditi da vam blago
 
 Seminarski rad je i dalje uslov za izlazak na ispit po izmenjenim pravilima.
 
-{{% alert warning %}}
-Precizno uputstvo za pisanje seminarskog rada dobićete najkasnije krajem marta.
-{{% /alert %}}
+### Uputstvo za pisanje seminarskog rada / prikaza teksta
+
+Uputstvo sa najvažnijim informacijama možete pronaći [ovde](/files/sk-uput.pdf)01.html
+
+U uputstvu ćete pročitati da se morate pridržavati APA stila citiranja i navođenja literature. [Ovde](/files/apa.pdf) možete prezuteti veoma detaljan vodičin kroz APA stil na srpskom jeziku sa navedenim gotovo svim mogućim tipovima literature i primerima za opšte formatiranje teksta u skladu sa ovim stilom.
+
+Takođe, možete pogledati primere akademskih prikaza knjiga koje možete koristiti kao vodič ili kao ilustraciju onoga što dobar prikaz pročitane literature treba da sadrži.
+
+- [Primer 1](/files/sk-p1.pdf)
+- [Primer 2](/files/sk-p2.pdf)
+- [Primer 3](/files/sk-p3.pdf)
+
+
 
 ## Predavanja
 
