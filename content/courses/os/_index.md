@@ -59,7 +59,7 @@ Video demonstracije će biti postavljane u **utorak ili u sredu**, zavisno od vr
 
 ### Vežbe: Mere oblika rasporeda
 
-{{< youtube T7fcEu7Xya4) >}}
+{{< youtube T7fcEu7Xya4 >}}
 
 Napomena: Pišite ukoliko vam nešto od demonstriranog na snimku nije jasno ili ukoliko imate dodatnih pitanja ili komentara.
 
