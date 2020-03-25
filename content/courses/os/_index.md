@@ -56,8 +56,14 @@ Raspored je prikazan po nedeljama. Vežbe će pratiti prethodnu nastavnu jedinic
 Video demonstracije će biti postavljane u **utorak ili u sredu**, zavisno od vremena koje mi je potrebno da ih pripremim.
 
 **23.03 - 29.03.**
-Vežbe: Mere oblika rasporeda
-Predavanja: Normalan raspored i Z-skorovi
+
+### Vežbe: Mere oblika rasporeda
+
+{{< youtube T7fcEu7Xya4) >}}
+
+Napomena: Pišite ukoliko vam nešto od demonstriranog na snimku nije jasno ili ukoliko imate dodatnih pitanja ili komentara.
+
+### Predavanja: Normalan raspored i Z-skorovi
 
 
 ## Literatura
