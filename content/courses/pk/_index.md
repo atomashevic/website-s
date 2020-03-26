@@ -34,6 +34,12 @@ Svi dobijate 5 poena na prisustvo. U zavisnosti koliko upitnika popunite (i da l
 
 Čim budem zasnao nešto novo, preneću vam na ovoj stranici. Za sva pitanja i nedoumice pišite meni na mejl.
 
+## Predavanja
+
+Predavanja će biti održana putem video linka koristeći platformu Zoom.
+
+Datum prvog predavanja je **8. april u 9h**. Uskoro ćete dobiti pozivni link za predavanje i uputstvo kako koristiti Zoom platformu.
+
 ## Struktura predispitnih poena
 
 - Prisustvo vežbama $\Rightarrow 5$ poena

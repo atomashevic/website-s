@@ -33,6 +33,14 @@ Svi dobijate 5 poena na prisustvo. U zavisnosti koliko upitnika popunite (i da l
 
 Čim budem zasnao nešto novo, preneću vam na ovoj stranici. Za sva pitanja i nedoumice pišite meni na mejl.
 
+## Predavanja
+
+Predavanja će se održavati putem video linka, odnosno korišćenjem platforme Zoom.
+
+**Datum prvog predavanja je 7. april u 13.30h.** Naknadno ćete biti obavešteni o terminu i načinu na koji možete da pristupite predavanju.
+
+Do tada, profesor Žolt je pripremio *hendaut* odnosno skraćenu verziju predavanja koje je trebalo u međuvremenu da se održi. Tema predavanja je **Potkultura i kontrakultura*. Možete ga preuzeti [ovde](/files/pk-kk.pdf).
+
 ## Struktura predispitnih poena
 
 - Prisustvo predavanjima $\Rightarrow 5$ poena
