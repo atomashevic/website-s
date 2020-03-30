@@ -50,10 +50,13 @@ Maksimalan broj predispitnih predispitnih poena: **40**
 
 Seminarski rad piše se u formi izveštaja koji sadrži kvantitativne političke pokazatelje za određenu evropsku državu (koja vam je dodeljena), kao i analizu i interpretaciju tog izveštaja.
 
-{{% alert warning %}}
-U narednih nedelju dana biće objavljeno uputstvo i šablon za pisanje seminarskog rada.
-{{% /alert %}}
+Uputstvo za seminarski rad možete pronaći [ovde](/files/sp-seminarski.pdf)ep.pdf
 
+Podsetnik, potrebno je da analizirate državu koja vam je dodeljena, što možete videti [ovde](sp-drz.html). Ukoliko vam država nije dodeljena, javite se mejlom.
+
+Za sada je jedini rok za predaju rada **nedelju dana pre nego što ćete izaći na ispit u roku u kojem to želite**
+
+Možete tokom aprila i maja slati radne verzije seminarskog rada kako biste dobili povratnu informaciju i uneli evenetualne korekcije pre predaje finalne verzije.
 
 ## Ispit
 
@@ -77,12 +80,6 @@ U narednim nedeljama biće objavljeni hendauti za svaki čas predavanja.
 -  [Demokratije](sp02p.html)
 -  [Demokratije - nastavak](sp02p.html)
 -  [Autoritarni režimi](sp04p.html)
--  Izbori i referendumi
--  Političke partije
--  Partijski sistemi I
--  Partijski sistemi II
--  Dinamika partijskih sistema
--  Evropeizacija politike
 
 ## Raspored vežbi
 
