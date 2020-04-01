@@ -50,7 +50,7 @@ Maksimalan broj predispitnih predispitnih poena: **40**
 
 Seminarski rad piše se u formi izveštaja koji sadrži kvantitativne političke pokazatelje za određenu evropsku državu (koja vam je dodeljena), kao i analizu i interpretaciju tog izveštaja.
 
-Uputstvo za seminarski rad možete pronaći [ovde](/files/sp-seminarski.pdf)ep.pdf
+Uputstvo za seminarski rad možete pronaći [ovde](/files/sp-seminarski.pdf)
 
 Podsetnik, potrebno je da analizirate državu koja vam je dodeljena, što možete videti [ovde](sp-drz.html). Ukoliko vam država nije dodeljena, javite se mejlom.
 

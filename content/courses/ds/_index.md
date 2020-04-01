@@ -60,15 +60,14 @@ Umesto časova vežbi, putem ovog sajta dobijaćete u PDF formatu rešene zadatk
 
 ## Raspored online nastave
 
-Naredni čas konsultativne nastave biće održan u **četvrtak 26.03.2020. godine** u 12h.
+Naredni čas konsultativne nastave biće održan u **četvrtak 01.04.2020. godine** u 12h.
 
-Čas možete pratiti putem sledećeg linka: [https://zoom.us/j/367979854](https://zoom.us/j/367979854)
+Čas možete pratiti putem sledećeg linka: [https://zoom.us/j/273385728](https://zoom.us/j/273385728)
 
-Drugi link ukoliko se čas prekine nakon 40 minuta [https://zoom.us/j/442493362](https://zoom.us/j/442493362)
+Drugi link ukoliko se čas prekine nakon 40 minuta [https://zoom.us/j/528669139](https://zoom.us/j/528669139)
 
 Uputstvo za povezivanje na online platformu **Zoom** putem koje će biti održana nastava možete pročitati [ovde](ds-kons.html).
 
-Tema narednog časa je: **Apsolutne mere varijabiliteta**. Prezentaciju možete pronaći [ovde](/files/p-mr.ppt). Ova tema odgovara poglavlju 3 iz udžbenika.
 
 ### Snimci prethodnih časova
 

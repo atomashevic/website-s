@@ -69,7 +69,11 @@ Napomena: Pišite ukoliko vam nešto od demonstriranog na snimku nije jasno ili 
 
 ## **30.03 - 05.04.**
 
-### Vežbe
+### Vežbe: Normalan raspored i Z-skorovi
+
+{{< youtube QuerWPkUeBs >}}
+
+Napomena: Zbog tehničkih problema kvalitet snimka je dosta lošiji u odnosu na prethodnu nedelju. Ukoliko nešto ne možete da vidite na snimku ili imate dodatnih pitanja javite se.
 
 ### Predavanja: Standardna greška i intervali poverenja
 
