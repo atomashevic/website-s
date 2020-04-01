@@ -55,7 +55,7 @@ Raspored je prikazan po nedeljama. Vežbe će pratiti prethodnu nastavnu jedinic
 
 Video demonstracije će biti postavljane u **utorak ili u sredu**, zavisno od vremena koje mi je potrebno da ih pripremim.
 
-**23.03 - 29.03.**
+## **23.03 - 29.03.**
 
 ### Vežbe: Mere oblika rasporeda
 
@@ -64,6 +64,20 @@ Video demonstracije će biti postavljane u **utorak ili u sredu**, zavisno od vr
 Napomena: Pišite ukoliko vam nešto od demonstriranog na snimku nije jasno ili ukoliko imate dodatnih pitanja ili komentara.
 
 ### Predavanja: Normalan raspored i Z-skorovi
+
+[Prezentacija](/files/os-normal.ppt) profesorke Jevremov sa svučnim zapisom (njenim objašnjenjima ključnih pojmova).
+
+## **30.03 - 05.04.**
+
+### Vežbe
+
+### Predavanja: Standardna greška i intervali poverenja
+
+Dve prezentacije sa zvučnim zapisom.
+
+[Standardna greška](/files/os-se.ppt)
+
+[Intervali poverenja](/files/os-int.ppt)
 
 
 ## Literatura
