@@ -60,7 +60,7 @@ Umesto časova vežbi, putem ovog sajta dobijaćete u PDF formatu rešene zadatk
 
 ## Raspored online nastave
 
-Naredni čas konsultativne nastave biće održan u **četvrtak 01.04.2020. godine** u 12h.
+Naredni čas konsultativne nastave biće održan u **četvrtak 02.04.2020. godine** u 12h.
 
 Čas možete pratiti putem sledećeg linka: [https://zoom.us/j/273385728](https://zoom.us/j/273385728)
 

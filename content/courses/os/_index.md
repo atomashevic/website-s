@@ -67,6 +67,10 @@ Napomena: Pišite ukoliko vam nešto od demonstriranog na snimku nije jasno ili 
 
 [Prezentacija](/files/os-normal.ppt) profesorke Jevremov sa svučnim zapisom (njenim objašnjenjima ključnih pojmova).
 
+### Zadaci
+
+[Primeri interpretacije mera deskriptivne statistike](/files/os-z-01.pdf) i rada u SPSS-u. Savetujem vam da koristite ovaj urađeni primer kao vodič za pripremu za test.
+
 ## **30.03 - 05.04.**
 
 ### Vežbe: Normalan raspored i Z-skorovi
