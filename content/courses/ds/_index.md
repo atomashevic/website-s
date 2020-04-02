@@ -57,6 +57,7 @@ Umesto časova vežbi, putem ovog sajta dobijaćete u PDF formatu rešene zadatk
 #### Postavljeni zadaci 
 
 - 20.03.2020. [Zadaci - Mere centralne tendencije](/files/ds-z01.pdf)
+- 02.04.2020. [Zadaci - Mere varijabiliteta](/files/ds-z02.pdf)
 
 ## Raspored online nastave
 
@@ -73,3 +74,6 @@ Uputstvo za povezivanje na online platformu **Zoom** putem koje će biti održan
 
 {{< youtube Cd7qgCu8MjE >}}
 
+{{< youtube c5Bnuomzajo >}}
+
+{{< youtube cuB_FYj3CCY >}}
