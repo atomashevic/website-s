@@ -37,9 +37,31 @@ Svi dobijate 5 poena na prisustvo. U zavisnosti koliko upitnika popunite (i da l
 
 Predavanja će se održavati putem video linka, odnosno korišćenjem platforme Zoom.
 
-**Datum prvog predavanja je 7. april u 13.30h.** Naknadno ćete biti obavešteni o terminu i načinu na koji možete da pristupite predavanju.
+Ukoliko želite da pratite nastavu putem **Zoom**-a potrebno je da na rasporedu u odgovarajućem terminu kliknete na link preko vašeg računara i time se uključite u video poziv. Sami birate da li ćete učestovati putem audio, video ili tekstualne komunikacije. Za uključivanje na nastavu putem računara nije potrebna nikakva registracija ili preuzimanje dodatnog softvera.
+
+Ukoliko želite da se uključite u nastavu putem mobilnih uređaja (tableta ili telefona), potrebno je da preuzmete **Zoom** aplikaciju ([Android](https://play.google.com/store/apps/details?id=us.zoom.videomeetings), [iPhone, iPad](https://itunes.apple.com/us/app/id546505307)). Kada klinete na link na rasporedu na telefonu ili tabletu, video poziv će biti otvoren unutar aplikacije.
+
+
+Svaka grupa prati predavanja u onom terminu u kojem je pratila predavanja dok je u toku bila **redovna nastava**.
+
+
+### ČAS 7. APRILA (utorak) 
+
+- PRVI ČAS početak u **13:30h** (prvih 40 minuta) [https://us04web.zoom.us/j/141399766](https://us04web.zoom.us/j/141399766)
+
+- DRUGI ČAS početak u **14:30h** [https://us04web.zoom.us/j/950165735](https://us04web.zoom.us/j/950165735)
+
+Meeting ID: 950 165 735
+
+### ČAS 8. APRILA (sreda)
+
+- PRVI ČAS početak u **09:00h** (prvih 40 minuta) [https://us04web.zoom.us/j/951220086](https://us04web.zoom.us/j/951220086)
+- DRUGI ČAS početak u **10:00h** [https://us04web.zoom.us/j/232431849](https://us04web.zoom.us/j/232431849)
+
 
 Do tada, profesor Žolt je pripremio *hendaut* odnosno skraćenu verziju predavanja koje je trebalo u međuvremenu da se održi. Tema predavanja je **Potkultura i kontrakultura*. Možete ga preuzeti [ovde](/files/pk-kk.pdf).
+
+Profesor Ristić je pripremio materijal koji je neophodno pročitati do 7-8. aprila. Reč je o tekstu *Životni stil i potrošačka korpa* koji možete preuzeti [ovde](/files/pk-mf.pdf).
 
 ## Struktura predispitnih poena
 
