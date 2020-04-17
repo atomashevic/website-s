@@ -78,7 +78,7 @@ Prezentacija: [Hi-kvadrat](/files/hi2.pps)
 
 Predavanje profesora Pajića o Hi-kvadrat testu
 
-{{< youtube nU53LnhAkk >}}
+{{< youtube _nU53LnhAkk >}}
 
 Demonstracioni video za hi-kvadrat test nezavisnosti (USKORO!)
 
