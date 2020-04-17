@@ -68,7 +68,19 @@ Ovaj sadržaj je prevashodno teorijski i pojmove standardne greške i intervala 
 
 Prezentacija sa zvučnim zapisom: [t-test](/files/os-tt.ppt)
 
-Demonstracioni video t-test za jedan i dva nezavisna uzorka (USKORO!)
+Demonstracioni video t-test za jedan i dva nezavisna uzorka
+
+{{< youtube pR8KIg7em2k >}}
+
+### Hi-kvadrat
+
+Prezentacija: [Hi-kvadrat](/files/hi2.pps)
+
+Predavanje profesora Pajića o Hi-kvadrat testu
+
+{{< youtube nU53LnhAkk >}}
+
+Demonstracioni video za hi-kvadrat test nezavisnosti (USKORO!)
 
 ## Promena načina rada
 
@@ -88,46 +100,6 @@ Važno je da uz praćenje snimaka, čitati naznačene delove udžbenika profesor
 Ispit će sadržati samo teorijska pitanja na zaokruživanje. Dobićete i nekoliko primera ispitnih pitanja kako biste znali šta da očekujete.
 
 Samim tim, sve što vam je neophodno jeste da pratite video demonstracije i čitate odgovarajuće delove udžbenika. Dodatni materijal koji profesori budu slali će vam biti od koristi da bolje razumete udžbenik i teorijsku pozadinu onoga što radimo u SPSS-u.
-
-## Preliminarni plan rada za naredni period
-
-Još uvek čekam detaljne informacije od profesora oko organizacije nastave u narednom periodu. Popunjavaću ovaj raspored kako informacije budu pristizale. 
-
-Raspored je prikazan po nedeljama. Vežbe će pratiti prethodnu nastavnu jedinicu sa predavanja, tj. predavanja idu jedan korak ispred vežbi.
-
-Video demonstracije će biti postavljane u **utorak ili u sredu**, zavisno od vremena koje mi je potrebno da ih pripremim.
-
-## **23.03 - 29.03.**
-
-### Vežbe: Mere oblika rasporeda
-
-{{< youtube T7fcEu7Xya4 >}}
-
-Napomena: Pišite ukoliko vam nešto od demonstriranog na snimku nije jasno ili ukoliko imate dodatnih pitanja ili komentara.
-
-### Predavanja: Normalan raspored i Z-skorovi
-
-[Prezentacija](/files/os-normal.ppt) profesorke Jevremov sa svučnim zapisom (njenim objašnjenjima ključnih pojmova).
-
-### Zadaci
-
-[Primeri interpretacije mera deskriptivne statistike](/files/os-z-01.pdf) i rada u SPSS-u. Savetujem vam da koristite ovaj urađeni primer kao vodič za pripremu za test.
-
-## **30.03 - 05.04.**
-
-### Vežbe: Normalan raspored i Z-skorovi
-
-{{< youtube QuerWPkUeBs >}}
-
-Napomena: Zbog tehničkih problema kvalitet snimka je dosta lošiji u odnosu na prethodnu nedelju. Ukoliko nešto ne možete da vidite na snimku ili imate dodatnih pitanja javite se.
-
-### Predavanja: Standardna greška i intervali poverenja
-
-Dve prezentacije sa zvučnim zapisom.
-
-[Standardna greška](/files/os-se.ppt)
-
-[Intervali poverenja](/files/os-int.ppt)
 
 
 ## Literatura
