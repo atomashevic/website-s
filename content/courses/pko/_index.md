@@ -45,17 +45,17 @@ Ukoliko želite da se uključite u nastavu putem mobilnih uređaja (tableta ili 
 Svaka grupa prati predavanja u onom terminu u kojem je pratila predavanja dok je u toku bila **redovna nastava**.
 
 
-### ČAS 14. APRILA (utorak) 
+### ČAS 21. APRILA (utorak) 
 
-- PRVI ČAS početak u **13:30h** (prvih 40 minuta) [https://us04web.zoom.us/j/79829046941?pwd=elVlNUZZSnJJOGFhLy8xajFFVzJhdz09](https://us04web.zoom.us/j/79829046941?pwd=elVlNUZZSnJJOGFhLy8xajFFVzJhdz09)
+- PRVI ČAS početak u **13:30h** (prvih 40 minuta) [https://us04web.zoom.us/j/74987715831?pwd=hNFLSY7Qwf7ty8HrMlcW_ne3TXtWNw](https://us04web.zoom.us/j/74987715831?pwd=hNFLSY7Qwf7ty8HrMlcW_ne3TXtWNw)
 
-- DRUGI ČAS početak u **14:30h** [https://us04web.zoom.us/j/74334060152?pwd=S08wR3RkdmRMRDdQbjhRU0FlTUlpQT09](https://us04web.zoom.us/j/74334060152?pwd=S08wR3RkdmRMRDdQbjhRU0FlTUlpQT09)
+- DRUGI ČAS početak u **14:30h** [https://us04web.zoom.us/j/73392229616?pwd=j_9YBorOqC_3X1fpt5pOWpTmAb65pQ](https://us04web.zoom.us/j/73392229616?pwd=j_9YBorOqC_3X1fpt5pOWpTmAb65pQ)
 
 
-### ČAS 15. APRILA (sreda)
+### ČAS 22. APRILA (sreda)
 
-- PRVI ČAS početak u **09:00h** (prvih 40 minuta) [https://us04web.zoom.us/j/79778923553?pwd=RWR0RFpEUUxlSzVtUW1uV21xMDNmZz09](https://us04web.zoom.us/j/79778923553?pwd=RWR0RFpEUUxlSzVtUW1uV21xMDNmZz09)
-- DRUGI ČAS početak u **10:00h** [https://us04web.zoom.us/j/77985200029?pwd=SmtHMWFsSjdPeUJqMEc4VUZXeVoxQT09](https://us04web.zoom.us/j/77985200029?pwd=SmtHMWFsSjdPeUJqMEc4VUZXeVoxQT099)
+- PRVI ČAS početak u **09:00h** (prvih 40 minuta) [https://us04web.zoom.us/j/79723539827?pwd=j_lhNoryhPzOUUxMxuyULnVAoPk9Qg](https://us04web.zoom.us/j/79723539827?pwd=j_lhNoryhPzOUUxMxuyULnVAoPk9Qg)
+- DRUGI ČAS početak u **10:00h** [https://us04web.zoom.us/j/77724695893?pwd=jvpxKdf4BgLqI8YzQMdLmPln0L6CSA](https://us04web.zoom.us/j/77724695893?pwd=jvpxKdf4BgLqI8YzQMdLmPln0L6CSA)
 
 
 Do tada, profesor Žolt je pripremio *hendaut* odnosno skraćenu verziju predavanja koje je trebalo u međuvremenu da se održi. Tema predavanja je **Potkultura i kontrakultura*. Možete ga preuzeti [ovde](/files/pk-kk.pdf).

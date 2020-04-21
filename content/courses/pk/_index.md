@@ -44,10 +44,10 @@ Ukoliko želite da se uključite u nastavu putem mobilnih uređaja (tableta ili 
 
 
 
-### ČAS 15. APRILA (sreda)
+### ČAS 22. APRILA (sreda)
 
-- PRVI ČAS početak u **09:00h** (prvih 40 minuta) [https://us04web.zoom.us/j/79778923553?pwd=RWR0RFpEUUxlSzVtUW1uV21xMDNmZz09](https://us04web.zoom.us/j/79778923553?pwd=RWR0RFpEUUxlSzVtUW1uV21xMDNmZz09)
-- DRUGI ČAS početak u **10:00h** [https://us04web.zoom.us/j/77985200029?pwd=SmtHMWFsSjdPeUJqMEc4VUZXeVoxQT09](https://us04web.zoom.us/j/77985200029?pwd=SmtHMWFsSjdPeUJqMEc4VUZXeVoxQT09)
+- PRVI ČAS početak u **09:00h** (prvih 40 minuta) [https://us04web.zoom.us/j/79723539827?pwd=j_lhNoryhPzOUUxMxuyULnVAoPk9Qg](https://us04web.zoom.us/j/79723539827?pwd=j_lhNoryhPzOUUxMxuyULnVAoPk9Qg)
+- DRUGI ČAS početak u **10:00h** [https://us04web.zoom.us/j/77724695893?pwd=jvpxKdf4BgLqI8YzQMdLmPln0L6CSA](https://us04web.zoom.us/j/77724695893?pwd=jvpxKdf4BgLqI8YzQMdLmPln0L6CSA)
 
 Do tada, profesor Žolt je pripremio *hendaut* odnosno skraćenu verziju predavanja koje je trebalo u međuvremenu da se održi. Tema predavanja je **Potkultura i kontrakultura*. Možete ga preuzeti [ovde](/files/pk-kk.pdf).
 
