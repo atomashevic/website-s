@@ -49,6 +49,23 @@ Ukoliko želite da se uključite u nastavu putem mobilnih uređaja (tableta ili 
 - PRVI ČAS početak u **09:00h** (prvih 40 minuta) [https://us04web.zoom.us/j/79723539827?pwd=j_lhNoryhPzOUUxMxuyULnVAoPk9Qg](https://us04web.zoom.us/j/79723539827?pwd=j_lhNoryhPzOUUxMxuyULnVAoPk9Qg)
 - DRUGI ČAS početak u **10:00h** [https://us04web.zoom.us/j/77724695893?pwd=jvpxKdf4BgLqI8YzQMdLmPln0L6CSA](https://us04web.zoom.us/j/77724695893?pwd=jvpxKdf4BgLqI8YzQMdLmPln0L6CSA)
 
+{{% alert note %}}
+Molim vas da obratite pažnju na zadatak koji je prosledio profesor Ristić i koji vam se računa u okviru aktivnosti vezanih za predavanja iz ovog predmeta.
+{{% /alert %}}
+
+**Zadatak**
+
+[Prezentacija](/files/pk.pptx) Potkulture.
+
+[Tekst](/files/pk-kk2.pdf) o potkulturama i kontrakulturama
+
+[Domaći zadatak](/files/zpk.docx)
+
+Zadatak popunjavate i šaljete profesoru Ristiću na adresu: risticd@ff.uns.ac.rs
+
+**Drugi materijal**
+
+
 Do tada, profesor Žolt je pripremio *hendaut* odnosno skraćenu verziju predavanja koje je trebalo u međuvremenu da se održi. Tema predavanja je **Potkultura i kontrakultura*. Možete ga preuzeti [ovde](/files/pk-kk.pdf).
 
 Profesor Ristić je pripremio materijal koji je neophodno pročitati do 8. aprila. Reč je o tekstu *Životni stil i potrošačka korpa* koji možete preuzeti [ovde](/files/pk-mf.pdf).

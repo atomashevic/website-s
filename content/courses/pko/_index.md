@@ -57,6 +57,22 @@ Svaka grupa prati predavanja u onom terminu u kojem je pratila predavanja dok je
 - PRVI ČAS početak u **09:00h** (prvih 40 minuta) [https://us04web.zoom.us/j/79723539827?pwd=j_lhNoryhPzOUUxMxuyULnVAoPk9Qg](https://us04web.zoom.us/j/79723539827?pwd=j_lhNoryhPzOUUxMxuyULnVAoPk9Qg)
 - DRUGI ČAS početak u **10:00h** [https://us04web.zoom.us/j/77724695893?pwd=jvpxKdf4BgLqI8YzQMdLmPln0L6CSA](https://us04web.zoom.us/j/77724695893?pwd=jvpxKdf4BgLqI8YzQMdLmPln0L6CSA)
 
+{{% alert note %}}
+Molim vas da obratite pažnju na zadatak koji je prosledio profesor Ristić i koji vam se računa u okviru aktivnosti vezanih za predavanja iz ovog predmeta.
+{{% /alert %}}
+
+**Zadatak**
+
+[Prezentacija](/files/pk.pptx) Potkulture.
+
+[Tekst](/files/pk-kk2.pdf) o potkulturama i kontrakulturama
+
+[Domaći zadatak](/files/zpk.docx)
+
+Zadatak popunjavate i šaljete profesoru Ristiću na adresu: risticd@ff.uns.ac.rs
+
+**Ostali materijal**
+
 
 Do tada, profesor Žolt je pripremio *hendaut* odnosno skraćenu verziju predavanja koje je trebalo u međuvremenu da se održi. Tema predavanja je **Potkultura i kontrakultura*. Možete ga preuzeti [ovde](/files/pk-kk.pdf).
 
