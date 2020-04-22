@@ -58,14 +58,15 @@ Umesto časova vežbi, putem ovog sajta dobijaćete u PDF formatu rešene zadatk
 
 - 20.03.2020. [Zadaci - Mere centralne tendencije](/files/ds-z01.pdf)
 - 02.04.2020. [Zadaci - Mere varijabiliteta](/files/ds-z02.pdf)
+- 23.04.2020. [Zadaci - Varijabilitet kvalitativnih podataka](/files/ds-z03.pdf)
 
 ## Raspored online nastave
 
-Naredni čas konsultativne nastave biće održan u **četvrtak 02.04.2020. godine** u 12h.
+Naredni čas konsultativne nastave biće održan u **četvrtak 23.04.2020. godine** u 12h.
 
-Čas možete pratiti putem sledećeg linka: [https://zoom.us/j/273385728](https://zoom.us/j/273385728)
+Prvi čas: [https://zoom.us/j/91166653153](https://zoom.us/j/91166653153)
 
-Drugi link ukoliko se čas prekine nakon 40 minuta [https://zoom.us/j/528669139](https://zoom.us/j/528669139)
+Drugi čas: [https://zoom.us/j/98617378279](https://zoom.us/j/98617378279)
 
 Uputstvo za povezivanje na online platformu **Zoom** putem koje će biti održana nastava možete pročitati [ovde](ds-kons.html).
 
