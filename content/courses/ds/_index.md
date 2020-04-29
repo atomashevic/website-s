@@ -59,6 +59,7 @@ Umesto časova vežbi, putem ovog sajta dobijaćete u PDF formatu rešene zadatk
 - 20.03.2020. [Zadaci - Mere centralne tendencije](/files/ds-z01.pdf)
 - 02.04.2020. [Zadaci - Mere varijabiliteta](/files/ds-z02.pdf)
 - 23.04.2020. [Zadaci - Varijabilitet kvalitativnih podataka](/files/ds-z03.pdf)
+- 30.04.2020. [Zadaci - Mere oblika rasporeda](/files/ds-z04.pdf)
 
 ## Raspored online nastave
 
