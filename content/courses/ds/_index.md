@@ -62,11 +62,11 @@ Umesto časova vežbi, putem ovog sajta dobijaćete u PDF formatu rešene zadatk
 
 ## Raspored online nastave
 
-Naredni čas konsultativne nastave biće održan u **četvrtak 23.04.2020. godine** u 12h.
+Naredni čas konsultativne nastave biće održan u **četvrtak 30.04.2020. godine** u 12h.
 
-Prvi čas: [https://zoom.us/j/91166653153](https://zoom.us/j/91166653153)
+Prvi čas: [https://zoom.us/j/92838639559](https://zoom.us/j/92838639559)
 
-Drugi čas: [https://zoom.us/j/98617378279](https://zoom.us/j/98617378279)
+Drugi čas: [https://zoom.us/j/91536240063](https://zoom.us/j/91536240063)
 
 Uputstvo za povezivanje na online platformu **Zoom** putem koje će biti održana nastava možete pročitati [ovde](ds-kons.html).
 
@@ -78,3 +78,7 @@ Uputstvo za povezivanje na online platformu **Zoom** putem koje će biti održan
 {{< youtube c5Bnuomzajo >}}
 
 {{< youtube cuB_FYj3CCY >}}
+
+{{< youtube CGcj8y1L4DI >}}
+
+{{< youtube q12H76FX0x8 >}}
