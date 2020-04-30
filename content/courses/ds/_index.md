@@ -34,8 +34,10 @@ Testovi će biti održani **umesto pismenog ispita** u roku u kojem ćete polaga
 
 Struktura predispitnih poena u novonastalim oklonostima izgleda ovako:
 
-- Prisustvo: **10** poena (svi)
-- Pismeni ispit iz dva dela - svaki deo nosi **30** poena
+- Prisustvo =
+-  **10** poena (svi)
+- Testovi = 2 x 20 = **40** poena (testovi će biti održani pre junskog ispita)
+- Pismeni ispit (zadaci) = **20** poena
 - Kada položite pismeni ispit, izlazite na usmeni koji nosi **30** poena
 
 
@@ -83,3 +85,7 @@ Uputstvo za povezivanje na online platformu **Zoom** putem koje će biti održan
 {{< youtube CGcj8y1L4DI >}}
 
 {{< youtube q12H76FX0x8 >}}
+
+{{< youtube SMahBeXEHak >}}
+
+{{< youtube u756g3aAdvU >}}

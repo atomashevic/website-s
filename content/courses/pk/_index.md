@@ -53,7 +53,7 @@ Ukoliko želite da se uključite u nastavu putem mobilnih uređaja (tableta ili 
 Molim vas da obratite pažnju na zadatak koji je prosledio profesor Ristić i koji vam se računa u okviru aktivnosti vezanih za predavanja iz ovog predmeta.
 {{% /alert %}}
 
-**Zadatak**
+**Zadatak 01**
 
 [Prezentacija](/files/pk.pptx) Potkulture.
 
@@ -61,7 +61,15 @@ Molim vas da obratite pažnju na zadatak koji je prosledio profesor Ristić i ko
 
 [Domaći zadatak](/files/zpk.docx)
 
-Zadatak popunjavate i šaljete profesoru Ristiću na adresu: risticd@ff.uns.ac.rs
+Zadatak popunjavate i **šaljete profesoru Ristiću** na adresu: risticd@ff.uns.ac.rs
+
+**Zadatak 02**
+
+[Tekst](/files/sport.pdf) o sportu
+
+[Domaći zadatak](/files/sport.doc)
+
+Zadatak popunjavate i **šaljete profesoru Ristiću** na adresu: risticd@ff.uns.ac.rs
 
 **Drugi materijal**
 

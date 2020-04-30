@@ -82,6 +82,12 @@ Predavanje profesora Pajića o Hi-kvadrat testu
 
 Demonstracioni video za hi-kvadrat test nezavisnosti (USKORO!)
 
+### t-test za zavisne uzorke
+
+Prezentacija: [t-test za zavisne uzorke](/files/tt-z.pps)
+
+{{< youtube V7aAQMH_0mk >}}
+
 ## Promena načina rada
 
 Kada su vežbe iz ovog predmeta u pitanju, svake nedelje ovde će biti postavljen video snimak demonstracije rada u SPSS-u koja pokriva celinu gradiva predviđenu za tu nedelju.
