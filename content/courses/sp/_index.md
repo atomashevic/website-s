@@ -60,9 +60,30 @@ Možete tokom aprila i maja slati radne verzije seminarskog rada kako biste dobi
 
 ## Ispit
 
-Ispit je usmeni i nosi 60 poena.
+{{% alert note %}}
+Zbog novonastale situacije, završni ispit će biti **pismeni**. Želimo da sprečimo da veće grupe studenata duže vremena provode na istom mestu čekajući red za odgovaranje i umesto toga imamo pismeni ispit u trajanju od 1h koji će biti organizovan u manjim grupama.
+{{% /alert %}}
+
+Ispit je **pismeni** i nosi 60 poena.
 
 Spisak ispitnih pitanja i literatura za ispit se nalazi [ovde](sp-ip.html).
+
+Ispitna pitanja predstavljaju nastavne celine na koje se mogu odnositi pitanja na ispitnom testu.
+
+Pitanja će biti mahom na zaokruživanje tačnog odgovora, uz poneko pitanje koje zahteva dopunu tačnog odgovora. Predviđeno je između 20 i 30 pitanja na testu.
+
+Primeri pitanja sa ispitnog testa --- Sociologija [USKORO!]
+
+Primeri pitanja sa ispitnog testa --- Socijalni rad [USKORO!]
+
+## Konsultacije
+
+Od petka 15. maja biće održavane nedeljne online konsultacije preko Zoom-a. Ovaj način konsultacija biće aktivan i tokom juna, za vreme trajanja ispitnih rokova.
+
+Na konsultacijama možete pitati sve što je nejasno u vezi seminarskih radova, ispita i drugo.
+
+- **15.05** u 12h: [Zoom link](https://zoom.us/j/99105423617)
+
 
 
 ## Predavanja
