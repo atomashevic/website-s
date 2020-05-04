@@ -44,10 +44,10 @@ Ukoliko želite da se uključite u nastavu putem mobilnih uređaja (tableta ili 
 
 
 
-### ČAS 29. APRILA (sreda)
+### ČAS 6. maj (sreda)
 
-- PRVI ČAS početak u **09:00h** (prvih 40 minuta) [https://us04web.zoom.us/j/76106409303?pwd=MllsUWNFRWpUTi9jMStVdUJ5NUE2UT09](https://us04web.zoom.us/j/76106409303?pwd=MllsUWNFRWpUTi9jMStVdUJ5NUE2UT09)
-- DRUGI ČAS početak u **10:00h** [https://us04web.zoom.us/j/76976981797?pwd=UkpzQXlYaXk1bVhVaDV5cXhmRzd5dz09](https://us04web.zoom.us/j/76976981797?pwd=UkpzQXlYaXk1bVhVaDV5cXhmRzd5dz09)
+- PRVI ČAS početak u **09:00h** (prvih 40 minuta) [https://us04web.zoom.us/j/78879633215?pwd=SlY4d01kRHkrNzNqZ2VQOCthcVo2dz09](https://us04web.zoom.us/j/78879633215?pwd=SlY4d01kRHkrNzNqZ2VQOCthcVo2dz09)
+- DRUGI ČAS početak u **10:00h** [https://us04web.zoom.us/j/78028029265?pwd=OVZxeGJsd3VCVTV0Z0xsRGlUR3o1dz09](https://us04web.zoom.us/j/78028029265?pwd=OVZxeGJsd3VCVTV0Z0xsRGlUR3o1dz09)
 
 {{% alert note %}}
 Molim vas da obratite pažnju na zadatak koji je prosledio profesor Ristić i koji vam se računa u okviru aktivnosti vezanih za predavanja iz ovog predmeta.
