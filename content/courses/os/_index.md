@@ -80,7 +80,10 @@ Predavanje profesora Pajića o Hi-kvadrat testu
 
 {{< youtube _nU53LnhAkk >}}
 
-Demonstracioni video za hi-kvadrat test nezavisnosti (USKORO!)
+Demonstracioni video za hi-kvadrat test nezavisnosti
+
+{{< youtube mOiacYykQa0 >}}
+
 
 ### t-test za zavisne uzorke
 
