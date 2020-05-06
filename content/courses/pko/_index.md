@@ -63,11 +63,7 @@ Molim vas da obratite pažnju na zadatak koji je prosledio profesor Ristić i ko
 
 **Zadatak**
 
-[Prezentacija](/files/pk.pptx) Potkulture.
-
-[Tekst](/files/pk-kk2.pdf) o potkulturama i kontrakulturama
-
-[Domaći zadatak](/files/zpk.docx)
+[Domaći zadatak - Moda](/files/moda.doc)
 
 Zadatak popunjavate i šaljete profesoru Ristiću na adresu: risticd@ff.uns.ac.rs
 
