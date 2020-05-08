@@ -91,6 +91,25 @@ Prezentacija: [t-test za zavisne uzorke](/files/tt-z.pps)
 
 {{< youtube V7aAQMH_0mk >}}
 
+## Korelacija
+
+Prezentacija: [Korelacija](/files/kor.pps)
+
+{{< youtube DvYqO9IH5mg >}}
+
+Demonstracioni video za korelaciju
+
+{{< youtube eyRO2NpQGEI >}}
+
+## Analiza varijanse
+
+Prezentacija: [ANOVA](/files/ANOVA.pps)
+
+{{< youtube IB1SNtKWhhM >}}
+
+Demonstracioni video ANOVA (USKORO!!)
+
+
 ## Promena načina rada
 
 Kada su vežbe iz ovog predmeta u pitanju, svake nedelje ovde će biti postavljen video snimak demonstracije rada u SPSS-u koja pokriva celinu gradiva predviđenu za tu nedelju.
