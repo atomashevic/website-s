@@ -32,9 +32,11 @@ Ukoliko vam je nešto nejasno ili imate pitanja oko gradiva ili načina rada, mo
 
 - **Interaktivni udžbenik**: Dejan Pajić, [Primena tehnika vizualizacije u bazičnoj statistici](http://psihologija.ff.uns.ac.rs/viz/pocetna)
 
-- Vodič za pripremu ispita (USKORO!)
+- [Informacije o testu](/files/os-test.pdf) (**VAŽNO!**)
 
-- Vodič za pripremtu testova (USKORO!)
+- [Primer testa](/files/os-primer-test.pdf)
+
+- Vodič za pripremu ispita (USKORO!)
 
 ## Nastavni materijal
 
@@ -109,38 +111,6 @@ Prezentacija: [ANOVA](/files/ANOVA.pps)
 
 Demonstracioni video ANOVA (USKORO!!)
 
-
-## Promena načina rada
-
-Kada su vežbe iz ovog predmeta u pitanju, svake nedelje ovde će biti postavljen video snimak demonstracije rada u SPSS-u koja pokriva celinu gradiva predviđenu za tu nedelju.
-
-Uz demonstraciju, dobićete i primer za vežbanje, odnosno spisak stvari koje možete probati sami da uradite na vašim računarima.
-
-Kada dobijem materijal od profesora (prezentacije) on će takođe biti postavljen na sajt, zajedno sa video snimcima u okviru iste nastavne jedinice.
-
-Važno je da uz praćenje snimaka, čitati naznačene delove udžbenika profesora Pajića zbog praćenja teorijskog gradiva. Literatura za svaku nedelju će vam biti posebno naznačena.
-
-**Važna promena** odnosi se na testove koji neće biti održani u toku semestra zbog vanrednog stanja. Umesto toga, testovi će biti održani u junskom ispitnom roku, pre samog ispita. Dakle, imaćete priliku da steknete predispitne poene kroz testove pre samih ispita. Testovi će biti prilagođeni gradivu i izostanku predavanja, tako da će sadržati:
-
-- teorijska pitanja na zaokruživanje (prema udžbeniku profesora Pajića)
-- zadatke koji zahtevaju rad u SPSS-u poput onih zadataka koje ćete dobiti za vežbanje uz svaku video demonstraciju
-
-Ispit će sadržati samo teorijska pitanja na zaokruživanje. Dobićete i nekoliko primera ispitnih pitanja kako biste znali šta da očekujete.
-
-Samim tim, sve što vam je neophodno jeste da pratite video demonstracije i čitate odgovarajuće delove udžbenika. Dodatni materijal koji profesori budu slali će vam biti od koristi da bolje razumete udžbenik i teorijsku pozadinu onoga što radimo u SPSS-u.
-
-
-## Literatura
-
-- Beleške i prezentacije sa vežbi
-- Beleške i prezentacije sa predavanja
-- **Interaktivni udžbenik**: Dejan Pajić, [Primena tehnika vizualizacije u bazičnoj statistici](http://psihologija.ff.uns.ac.rs/viz/pocetna)
-- [SPSS priručnik za preživljavanje](https://s.atomasevic.com/files/os-spss.pdf) [^1]
-
-
-[^1]: Novije izdanje dostupno u seminarskoj biblioteci
-
-[^2]: Dostupno u kopirnici fakulteta.
 
 ## Podaci
 
