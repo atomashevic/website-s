@@ -45,17 +45,12 @@ Ukoliko želite da se uključite u nastavu putem mobilnih uređaja (tableta ili 
 Svaka grupa prati predavanja u onom terminu u kojem je pratila predavanja dok je u toku bila **redovna nastava**.
 
 
-### ČAS 5. maj (utorak) 
-
-- PRVI ČAS početak u **13:30h** (prvih 40 minuta) [https://us04web.zoom.us/j/74199128723?pwd=NFdrN29HMVVrN3NsdWdhcDVqcTI4QT09](https://us04web.zoom.us/j/74199128723?pwd=NFdrN29HMVVrN3NsdWdhcDVqcTI4QT09)
-
-- DRUGI ČAS početak u **14:30h** [https://us04web.zoom.us/j/78000347139?pwd=R2J3OEN1MGFtODdZbTIxTzY3bUM1dz09](https://us04web.zoom.us/j/78000347139?pwd=R2J3OEN1MGFtODdZbTIxTzY3bUM1dz09)
 
 
-### ČAS 6. maj (sreda)
+### ČAS 13. maj (sreda)
 
-- PRVI ČAS početak u **09:00h** (prvih 40 minuta) [https://us04web.zoom.us/j/78879633215?pwd=SlY4d01kRHkrNzNqZ2VQOCthcVo2dz09](https://us04web.zoom.us/j/78879633215?pwd=SlY4d01kRHkrNzNqZ2VQOCthcVo2dz09)
-- DRUGI ČAS početak u **10:00h** [https://us04web.zoom.us/j/78028029265?pwd=OVZxeGJsd3VCVTV0Z0xsRGlUR3o1dz09](https://us04web.zoom.us/j/78028029265?pwd=OVZxeGJsd3VCVTV0Z0xsRGlUR3o1dz09)
+- PRVI ČAS početak u **09:00h** (prvih 40 minuta) [https://us04web.zoom.us/j/72741896280?pwd=eEF4ZGZUVjVObXdnNlo1ZTM2ZlJ0Zz09](https://us04web.zoom.us/j/72741896280?pwd=eEF4ZGZUVjVObXdnNlo1ZTM2ZlJ0Zz09)
+- DRUGI ČAS početak u **10:00h** [https://us04web.zoom.us/j/75941126629?pwd=M2txZkRCdmJ3cUY0V2ZwNnRtZkx1QT09](https://us04web.zoom.us/j/75941126629?pwd=M2txZkRCdmJ3cUY0V2ZwNnRtZkx1QT09)
 
 {{% alert note %}}
 Molim vas da obratite pažnju na zadatak koji je prosledio profesor Ristić i koji vam se računa u okviru aktivnosti vezanih za predavanja iz ovog predmeta.
