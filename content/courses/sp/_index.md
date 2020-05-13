@@ -82,7 +82,7 @@ Od petka 15. maja biće održavane nedeljne online konsultacije preko Zoom-a. Ov
 
 Na konsultacijama možete pitati sve što je nejasno u vezi seminarskih radova, ispita i drugo.
 
-- **15.05** u 12h: [Zoom link](https://zoom.us/j/99105423617)
+- **15.05** u 13h: [Zoom link](https://zoom.us/j/95341178231?pwd=aXN0UFpxcy9aVnViRElQUDRLQUJBZz09)
 
 
 

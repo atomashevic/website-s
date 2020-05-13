@@ -109,7 +109,23 @@ Prezentacija: [ANOVA](/files/ANOVA.pps)
 
 {{< youtube IB1SNtKWhhM >}}
 
-Demonstracioni video ANOVA (USKORO!!)
+Demonstracioni video ANOVA 
+
+{{< youtube oVol_bbHu6I >}}
+
+## Konsultacije
+
+{{% alert note %}}
+Online konsultacije će biti održavane svakog petka u 12h do termina ispita u junskom roku.
+{{% /alert %}}
+
+**Konsultacije 15.05. 12h**
+
+12:00 - 12:30 [Zoom link](https://zoom.us/j/99105423617?pwd=bkdQRkhQVG5IZ2ErVnRoYUhoM01zdz09)
+
+12:30 - 13:00 [Zoom link](https://zoom.us/j/93531133752?pwd=Mm9Uc21IQzc2cEw2amRSQ0VmOUFMQT09)
+
+
 
 
 ## Podaci
