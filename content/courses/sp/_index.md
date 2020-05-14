@@ -70,11 +70,13 @@ Spisak ispitnih pitanja i literatura za ispit se nalazi [ovde](sp-ip.html).
 
 Ispitna pitanja predstavljaju nastavne celine na koje se mogu odnositi pitanja na ispitnom testu.
 
-Pitanja će biti mahom na zaokruživanje tačnog odgovora, uz poneko pitanje koje zahteva dopunu tačnog odgovora. Predviđeno je između 20 i 30 pitanja na testu.
+**Ispitni test sadrži 20 pitanja na zaokruživanje sa 4 ponuđena odgovora. Tačan odgovor vredi 3 poena. Netačan odgovor se ne boduje negativno. Potrebno je da odgovorite tačno na 10 pitanja da biste položili ispit (uz pretpostavku da imate minimalno 21 predispitni poen).**
 
-Primeri pitanja sa ispitnog testa --- Sociologija [USKORO!]
 
-Primeri pitanja sa ispitnog testa --- Socijalni rad [USKORO!]
+
+Primer ispitnog testa --- [Sociologija](/files/sp-primer-ispita-S.pdf) (generacija koja je slušala predmet ove godine)
+
+Primeri pitanja sa ispitnog testa --- Socijalni rad i starije generacije sociologa [USKORO!]
 
 ## Konsultacije
 
