@@ -66,7 +66,7 @@ Umesto časova vežbi, putem ovog sajta dobijaćete u PDF formatu rešene zadatk
 
 ## Raspored online nastave
 
-Naredni čas konsultativne nastave biće održan u **četvrtak 07.05.2020. godine** u 12h.
+Naredni čas konsultativne nastave biće održan u **četvrtak 14.05.2020. godine** u 12h.
 
 Prvi čas: [Zoom Link](https://zoom.us/j/92699043011?pwd=UzRjanRQaEpMeFBhbWpiWFZPY1Y2dz09)
 
