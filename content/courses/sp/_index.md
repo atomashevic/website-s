@@ -76,7 +76,7 @@ Ispitna pitanja predstavljaju nastavne celine na koje se mogu odnositi pitanja n
 
 Primer ispitnog testa --- [Sociologija](/files/sp-primer-ispita-S.pdf) (generacija koja je slušala predmet ove godine)
 
-Primeri pitanja sa ispitnog testa --- Socijalni rad i starije generacije sociologa [USKORO!]
+Primeri ispitnog testa --- [Socijalni rad i starije generacije sociologa ](/files/sp-primer-ispita-sr.pdf)
 
 ## Konsultacije
 
