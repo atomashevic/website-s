@@ -63,6 +63,7 @@ Umesto časova vežbi, putem ovog sajta dobijaćete u PDF formatu rešene zadatk
 - 23.04.2020. [Zadaci - Varijabilitet kvalitativnih podataka](/files/ds-z03.pdf)
 - 30.04.2020. [Zadaci - Mere oblika rasporeda](/files/ds-z04.pdf)
 - 08.05.2020. [Zadatak - Mere oblika rasporeda](/files/ds-z05.pdf)
+- 15.05.2020. [Zadatak - Varijabilitet kvalitativnih podataka](/files/ds-z06.pdf)
 
 ## Raspored online nastave
 
