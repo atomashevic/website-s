@@ -36,11 +36,16 @@ Struktura predispitnih poena u novonastalim oklonostima izgleda ovako:
 
 - Prisustvo =
 -  **10** poena (svi)
-- Testovi = 2 x 20 = **40** poena (testovi će biti održani pre junskog ispita)
+- Test = **40** poena (testovi će biti održani pre junskog ispita)
 - Pismeni ispit (zadaci) = **20** poena
 - Kada položite pismeni ispit, izlazite na usmeni koji nosi **30** poena
 
 
+## Test
+
+{{% alert note %}}
+Po dogovoru, biće održan jedan test iz Deskriptivne statistike. Test će trajati 90 minuta i obuhvata gradivo predviđeno za II testa (sve nastavne jedinice koje smo radili u okviru časova vežbi). Test će biti održan u okviru junskog ispitnog roka, jedan dan pred pismeni ispit.
+{{% /alert %}}
 
 ## Literatura
 
@@ -67,7 +72,7 @@ Umesto časova vežbi, putem ovog sajta dobijaćete u PDF formatu rešene zadatk
 
 ## Raspored online nastave
 
-Naredni čas konsultativne nastave biće održan u **četvrtak 14.05.2020. godine** u 12h.
+Naredni čas konsultativne nastave biće održan u **četvrtak 21.05.2020. godine** u 12h.
 
 Prvi čas: [Zoom Link](https://zoom.us/j/92699043011?pwd=UzRjanRQaEpMeFBhbWpiWFZPY1Y2dz09)
 
