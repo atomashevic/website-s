@@ -117,9 +117,11 @@ Demonstracioni video ANOVA
 
 {{% alert note %}}
 Online konsultacije će biti održavane svakog petka u 12h do termina ispita u junskom roku.
+
+Zbog toga što niste mogli svi da ispratite konsultacije prethodnog petka, dodat je vanredni termin u utoral 19.05. u 12h.
 {{% /alert %}}
 
-**Konsultacije 15.05. 12h**
+**Konsultacije 19.05. 12h**
 
 12:00 - 12:30 [Zoom link](https://zoom.us/j/99105423617?pwd=bkdQRkhQVG5IZ2ErVnRoYUhoM01zdz09)
 
