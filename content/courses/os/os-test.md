@@ -44,7 +44,7 @@ Na osvojeni broj poena svi dobijate još **10 poena** koji su bili namenjeni za 
 |    Janković Jelena   |   24  |   A   |
 |    Kelić Nikolina    |   27  |   A   |
 |   Knežević Teodora   |   29  |   A   |
-|    Laganin Jelena    |   13  |   B   |
+|    Laganin Jelena    |   **17**  |   B   |
 |    Lakić Nastasja    |   12  |   B   |
 |     Leskur Andrea    |   36  |   C   |
 |      Macak Ivana     |   31  |   B   |
