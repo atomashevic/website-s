@@ -34,6 +34,14 @@ Svi dobijate 5 poena na prisustvo. U zavisnosti koliko upitnika popunite (i da l
 
 Čim budem zasnao nešto novo, preneću vam na ovoj stranici. Za sva pitanja i nedoumice pišite meni na mejl.
 
+{{% alert note %}}
+Profesori su pripremili ispitnu literaturu, možete je preuzeti na linkovima ispod!
+{{% /alert %}}
+
+- [Udžbenik](/files/pk-lit.pdf)
+
+- [Dodatna literatura](/files/pk-lit-2.pdf)
+
 ## Predavanja
 
 Predavanja će biti održana putem video linka koristeći platformu Zoom.

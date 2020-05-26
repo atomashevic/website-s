@@ -29,9 +29,14 @@ Svi upitnici su otvoreni. Možete popuniti prethodno istekle upitnike i sve upit
 
 Svi dobijate 5 poena na prisustvo. U zavisnosti koliko upitnika popunite (i da li ih popunite u celosti) dobićete do 25 predispitnih poena.
 
-**Profesori** rade na udžbeniku koji će vam biti jedina potrebna i dovoljna literatura za ispit. Čim udžbenik bude gotov, dobićete ga u elektronskoj verziji, zajedno sa spiskom ispitnih pitanja.
+{{% alert note %}}
+Profesori su pripremili ispitnu literaturu, možete je preuzeti na linkovima ispod!
+{{% /alert %}}
 
-Čim budem zasnao nešto novo, preneću vam na ovoj stranici. Za sva pitanja i nedoumice pišite meni na mejl.
+- [Udžbenik](/files/pk-lit.pdf)
+
+- [Dodatna literatura](/files/pk-lit-2.pdf)
+
 
 ## Predavanja
 
