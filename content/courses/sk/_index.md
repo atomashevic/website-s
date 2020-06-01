@@ -23,7 +23,7 @@ menu:
 ---
 
 {{% alert warning %}}
-Budući da je redovna nastava obustavljena, došlo je do promena u predispitnim obavezama. O svim izmenama bićete obaveštavani na ovoj stranici.
+Budući da je semestar završen, 01. jun je poslednji dan kada će upitnici biti otvoreni. Od 02. juna upitnici su zatvoreni i nakon pregledanih unosa biće izračunati predispitni poeni.
 {{% /alert %}}
 
 ## Struktura predispitnih poena

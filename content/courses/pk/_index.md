@@ -25,7 +25,7 @@ menu:
 # Obaveštenja
 
 {{% alert warning %}}
-Svi upitnici su otvoreni. Možete popuniti prethodno istekle upitnike i sve upitnike do kraja semestra
+Budući da je semestar završen, 01. jun je poslednji dan kada će upitnici biti otvoreni. Od 02. juna upitnici su zatvoreni i nakon pregledanih unosa biće izračunati predispitni poeni.
 {{% /alert %}}
 
 Svi dobijate 5 poena na prisustvo. U zavisnosti koliko upitnika popunite (i da li ih popunite u celosti) dobićete do 25 predispitnih poena.
