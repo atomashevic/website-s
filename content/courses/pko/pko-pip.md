@@ -35,7 +35,7 @@ Svaki upitnik nosi 8 poena. Kako je maksimalni broj poena 25, svi koji su popuni
 |     Apostolović Marko    |     25    |
 |       Balać Olivera      |     25    |
 |       Balint Fabian      |     25    |
-|      Bjelić Kristina     |     17    |
+|      Bjelić Kristina     |     25    |
 |       Bošković Maja      |     25    |
 |      Bošković Tamara     |     25    |
 |    Branković Danijela    |     17    |
@@ -71,7 +71,7 @@ Svaki upitnik nosi 8 poena. Kako je maksimalni broj poena 25, svi koji su popuni
 |      Klincov Marija      |     25    |
 |     Knežević Milica      |     25    |
 |      Knežević Suzana     |     25    |
-|      Košanin Andrea      |     17    |
+|      Košanin Andrea      |     25    |
 |     Kosanović Stefan     |     25    |
 |       Kosović Sanja      |     25    |
 |     Kovačević Danilo     |     25    |
@@ -82,10 +82,10 @@ Svaki upitnik nosi 8 poena. Kako je maksimalni broj poena 25, svi koji su popuni
 |       Kusalo Marija      |     25    |
 |      Lazarević Tara      |     9     |
 |      Lazić Sladjana      |     9     |
-|        Lukać Dunja       |     17    |
+|        Lukać Dunja       |     25    |
 |        Lukač Emeše       |     25    |
 |        Lukić Jasna       |     25    |
-|      Lukić Kristina      |     17    |
+|      Lukić Kristina      |     25    |
 |    Majstorović Jelena    |     25    |
 |     Maksimović Miloš     |     25    |
 |      Marčeta Jovana      |     9     |
@@ -128,11 +128,11 @@ Svaki upitnik nosi 8 poena. Kako je maksimalni broj poena 25, svi koji su popuni
 |      Stjepić Darija      |     25    |
 |     Stojadinović Tina    |     9     |
 |    Stokuća Aleksandra    |     25    |
-|    Stracaboško Milica    |     17    |
+|    Stracaboško Milica    |     25    |
 |       Subotić Ivan       |     25    |
 |       Šupica Marina      |     25    |
 |     Tedorović Jovana     |     25    |
-|       Terzić Jelena      |     17    |
+|       Terzić Jelena      |     25    |
 |        Tomić Dejan       |     9     |
 |      Vejnovć Nevena      |     9     |
 |      Vojnović Dušica     |     25    |
