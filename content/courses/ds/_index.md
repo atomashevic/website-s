@@ -97,7 +97,17 @@ Gradivo za usmeni ispit obuhvata celoupan udžbenik profesorice Sokolovske i sve
 
 Ne postoji spisak ispitnih pitanja, profesorica može postaviti pitanje iz bilo kog dela udžbenika.
 
+Obično su pitanja takva da obuhvataju celine naznačene u udžebniku.
 
+Primeri:
+
+- Apsolutne mere varijabiliteta
+- Aritmetička sredina
+- Geometrijska sredina
+- Boks plot
+- Kvartili
+- Pozicione mere centralne tendencije
+- Osobine arimetičke sredine
 
 
 ## Literatura
