@@ -47,6 +47,59 @@ Struktura predispitnih poena u novonastalim oklonostima izgleda ovako:
 Po dogovoru, biće održan jedan test iz Deskriptivne statistike. Test će trajati 90 minuta i obuhvata gradivo predviđeno za II testa (sve nastavne jedinice koje smo radili u okviru časova vežbi). Test će biti održan u okviru junskog ispitnog roka, jedan dan pred pismeni ispit.
 {{% /alert %}}
 
+### Sadržaj testa
+
+- Pet teorijskih pitanja na zaokruživanje **5 x 3 = 15 poena**
+- Jedan zadatak koji se nalazi u primerima za vežbanje **10 poena**
+- Dodatni zadatak **15 poena**
+
+*Dodatni zadatak je poput onih koje smo vežbali, ali sa izmenjenim primerom i pitanjima*
+
+Zadaci obuhvataju sledeće mere deskriptivne statistike:
+
+- Aritmetiča sredina
+- Geometrijska sredina
+- Modus
+- Medijana i kvartili
+- Standardna devijacija, varijansa, koeficijent varijacije
+- Šenonov indeks
+- Koeficijent asimetrije i koeficijent spljoštenosti
+
+Delovi udžbenika iz kojih će biti izvučena teorijska pitanja na testu:
+
+- Aritmetička sredina (str. 44-48, 55-57)
+- Geometrijska sredina (str. 57-59)
+- Modus (str. 65)
+- Medijana i kvartili (str. 67-84)
+- Mere varijabiliteta kvant. promenljivih (str. 92-98, str. 103-105)
+- Varijbailitet kval. promenljivih (str. 105-106, 109-111)
+- Mere oblika rasporeda (str.121-123,132-135)
+
+## Ispit
+
+## Pismeni ispit
+
+Pismeni ispit sastoji se od dva zadatka, od kojih svaki nosi 10 poena.
+
+Zadaci obuhvataju isto gradivo i iste mere deskriptivne statistike kao i test.
+
+Kod zadataka na ispitu se veći značaj (izražen poenima) pridaje ispravnoj interpretaciji rešenja i tumačenju rezultata.
+
+Potrebno vam je 10 poena na pismenom ispitu da biste položili pismeni deo.
+
+Nakon što jednom položite pismeni deo, na usmeni možete izaći bilo kada, tj. u istom ili bilo kom narednom ispitnom roku.
+
+Ukoliko položite pismeni deo ispita, ali niste zadovoljni brojem poena, možete u bilo kom narednom roku polagati ponovo pismeni deo.
+
+## Usmeni ispit
+
+Gradivo za usmeni ispit obuhvata celoupan udžbenik profesorice Sokolovske i sve što je dodatno objašnjavala ili govorila na predavanjima.
+
+Ne postoji spisak ispitnih pitanja, profesorica može postaviti pitanje iz bilo kog dela udžbenika.
+
+
+
+
 ## Literatura
 
 Jedina literatura koja vam je potrebna za ovaj kurs jeste knjiga profesorke Sokolovske **Deskriptivna statistika**. Možete je preuzeti u PDF-u putem [ovog linka](/files/ds-ds.pdf).
