@@ -36,7 +36,7 @@ Ukoliko vam je nešto nejasno ili imate pitanja oko gradiva ili načina rada, mo
 
 - [Primer testa](/files/os-primer-test.pdf)
 
-- Vodič za pripremu ispita (USKORO!)
+- [Informacije o ispitu](/files/os-ispit-informacije.pdf) (**VAŽNO!**)
 
 ## Nastavni materijal
 
