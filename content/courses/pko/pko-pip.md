@@ -38,7 +38,7 @@ Svaki upitnik nosi 8 poena. Kako je maksimalni broj poena 25, svi koji su popuni
 |      Bjelić Kristina     |     25    |
 |       Bošković Maja      |     25    |
 |      Bošković Tamara     |     25    |
-|    Branković Danijela    |     17    |
+|    Branković Danijela    |     25    |
 |       Bratić Bojana      |     25    |
 |       Čaušević Mila      |     9     |
 |     Ćetojević Jovana     |     25    |
