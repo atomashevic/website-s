@@ -35,7 +35,7 @@ Rok za predaju seminarskog rada je nedelju dana pred ispit (kao što je navedeno
 |    Jakšić Mirjana   |     10    |        10 |            |     20 |
 |    Joksović Marko   |     10    |         2 |            |     12 |
 |    Jovović Ognjen   |     10    |         5 |            |     15 |
-|   Kostić Svetlana   |     10    |         6 |            |     16 |
+|   **Kostić Svetlana**   |     10    |         6 |           10 |     16 |
 |  Kovačević Mihajlo  |     10    |         0 |            |     10 |
 |   Mastilović Maša   |     10    |         4 |            |     14 |
 |   Mijatović Milica  |     10    |         7 |            |     17 |
