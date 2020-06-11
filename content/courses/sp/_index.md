@@ -72,6 +72,13 @@ Ispitna pitanja predstavljaju nastavne celine na koje se mogu odnositi pitanja n
 
 **Ispitni test sadrži 20 pitanja na zaokruživanje sa 4 ponuđena odgovora. Tačan odgovor vredi 3 poena. Netačan odgovor se ne boduje negativno. Potrebno je da odgovorite tačno na 10 pitanja da biste položili ispit (uz pretpostavku da imate minimalno 21 predispitni poen).**
 
+{{% alert note %}}
+Ispit u junskom roku biće održan 27.06.2020.
+
+Studenti sociologije (sadašnja generacija i starije generacije) polažu ispit u prvom terminu u 16h u učionici 111.
+
+Studenti socijalnog rada polažu ispit u drugom terminu u 18h u učionici 111
+{{% /alert %}}
 
 
 Primer ispitnog testa --- [Sociologija](/files/sp-primer-ispita-S.pdf) (generacija koja je slušala predmet ove godine)
