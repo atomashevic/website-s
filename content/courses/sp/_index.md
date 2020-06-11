@@ -75,9 +75,9 @@ Ispitna pitanja predstavljaju nastavne celine na koje se mogu odnositi pitanja n
 {{% alert note %}}
 Ispit u junskom roku biće održan 27.06.2020.
 
-Studenti sociologije (sadašnja generacija i starije generacije) polažu ispit u prvom terminu u 16h u učionici 111.
+Studenti sociologije (sadašnja generacija i starije generacije) polažu ispit u **drugom** terminu u 18h u učionici 111.
 
-Studenti socijalnog rada polažu ispit u drugom terminu u 18h u učionici 111
+Studenti socijalnog rada polažu ispit u **prvom** terminu u 16h u učionici 111
 {{% /alert %}}
 
 
