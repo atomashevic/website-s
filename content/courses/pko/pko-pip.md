@@ -101,7 +101,7 @@ Svaki upitnik nosi 8 poena. Kako je maksimalni broj poena 25, svi koji su popuni
 |      Nenadić Marija      |     25    |
 |      Nešić Nikolina      |     25    |
 |    Nikolić Aleksandra    |     25    |
-|       Nikolić Jana       |     17    |
+|       Nikolić Jana       |     25    |
 |     Nikolić Katarina     |     25    |
 |     Orlić Anastasija     |     25    |
 |        Oros Andrej       |     25    |
