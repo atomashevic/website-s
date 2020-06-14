@@ -42,7 +42,7 @@ Rok za predaju seminarskog rada je nedelju dana pred ispit (kao što je navedeno
 |  **Mišković Natalija**  |     10    |         8 |         9   |     27 |
 |  **Nedeljković Milica** |     10    |         9 |        10    |     29 |
 |     Perišić Uroš    |     10    |         2 |            |     12 |
-|    Perović Matija   |     10    |         3 |            |     13 |
+|    **Perović Matija**   |     10    |         3 |     8       |     21 |
 |   Petrović Bojana   |     10    |         7 |            |     17 |
 |  **Radmilović Lana**   |     10    |         9 |         10 |     29 |
 |   **Rustemović Hana**   |     10    |         7 |         10 |     27 |

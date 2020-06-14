@@ -55,4 +55,4 @@ U junskom roku rok za predaju radova je 20.06.
 | Šumić Milana        | 10        | 20        | 9          | 39     |
 | Tešin Vladimir      | 10        | 10        |            | 20     |
 | Tomić Zorana        | 10        | 5         |            | 15     |
-| Žunić Katarina      | 10        | 0         |            | 10     |
+| Žunić Katarina      | 10        | 0         |     9       | 19     |
