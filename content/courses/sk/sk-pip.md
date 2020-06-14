@@ -1,5 +1,5 @@
 ---
-title: Predispiti poeni
+title: Predispitni poeni
 linktitle: Predispitni poeni
 summary: Uvodni čas
 authors: [Aleksandar Tomašević]
@@ -47,7 +47,7 @@ Rok za predaju seminarskog rada je nedelju dana pred ispit (kao što je navedeno
 |  **Radmilović Lana**   |     10    |         9 |         10 |     29 |
 |   **Rustemović Hana**   |     10    |         7 |         10 |     27 |
 |   **Velimirović Luka**  |     10    |         0 |     8       |     18 |
-|    ***Vukelić Milica**   |     10    |         5 |         9   |     24 |
+|    **Vukelić Milica**   |     10    |         5 |         9   |     24 |
 |  **Vukomanović Jelena** |     10    |         4 |         9   |     23 |
 |    **Živčić Milana**    |     10    |         5 |       10     |     25 |
 |     Zurić Marija    |     10    |         7 |            |     17 |
