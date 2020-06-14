@@ -24,37 +24,37 @@ weight: 1
 
 $$M_3 = -0.262$$
 
-$$\alpha_3 = -0.04$$
+$$\alpha_3 = -0.205$$
 
 Približna simetričnost. Podaci su gotovo simetrično raspoređeni sa obe strane aritmetičke sredine.
 
 $$M_4 = 3.05$$
 
-$$\alpha_4 = 0.288$$
+$$\alpha_4 = 2.195$$
 
 Spljoštenost veća od normalne.
 
 ### B
 
-$$M_3 = -2.498$$
+$$M_3 = -1.166$$
 
-$$\alpha_3 = -0.45$$
+$$\alpha_3 = 1.23$$
 
 Srednje izražena negativna asimetrija (asimetrija u desno). Najveći broj podataka je smešten levo u odnosu na aritmetičku sredinu.
 
-$$M_4 = 6.075$$
+$$M_4 = 4.37$$
 
-$$\alpha_4 = 0.623$$
+$$\alpha_4 = 4.7$$
 
 Spljoštenost veća od normalne.
 
 ### C
 
-Kada je u pitanju prvi stav, odgovori su simetrično raspoređeni u odnosu na aritmetičku sredinu. Ispitanici su relativno ujednačeno davali odgovore 1-2 i 4-5 (aritmetička sredina je 3).
+Kada je u pitanju prvi stav, odgovori su blago negativno asimetrični. Ako gledamo vrednosti koje su najviše udaljene od aritmetičke sredine (1 i 5), više ih je sa leve strane aritmetičke sredine (frekvencija 10), te je raspored blago asimetričan u levo.
 
-Sa druge strane, kada je u pitanju stav B podaci su asimetrični u desno jer više od polovine ispitanika dalo odgovore 1-2 (aritmetička sredina je 2).
+Sa druge strane, kada je u pitanju stav B podaci su izraženo asimetrični u desno jer više od polovine ispitanika dalo odgovore 1-2 (aritmetička sredina je 2).
 
-Nema razlike u spljoštenosti distribucije odgovora na ova dva stava.
+Kada je spljoštenost u pitanju, u slučaju stava A podaci su više sšpljošeni uodnosu na normalan raspored, dok su u slučaju stava B više izduženi u odnosu na normalan raspored.
 
 ## Varijabilitet kvalitativnih podataka
 
