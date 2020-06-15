@@ -48,6 +48,7 @@ Na pismeni ispit 16.06. svi dolazite u istu grupu jer svi stajete u jednu učion
 | Lugonja Tanja        	| 25    	|
 | Perišić Uroš         	| 28    	|
 | Radosavljević Vuk    	| 10    	|
+| Ranđelović Danijela 	| 33    	|
 | Šimonjik Danijela    	| 13    	|
 | Sremčević Dušica     	| 27    	|
 | Stević Vidak         	| 10    	|
