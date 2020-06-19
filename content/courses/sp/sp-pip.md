@@ -39,7 +39,7 @@ U junskom roku rok za predaju radova je 20.06.
 | Karanović Aleksa    | 10        | 5         |            | 15     |
 | Kastratović Gala    | 10        | 10        |            | 20     |
 | Knežević Jelena     | 10        | 10        | 8          | 28     |
-| Lerinc Bernadet     | 10        | 20        |            | 30     |
+| Lerinc Bernadet     | 10        | 20        | 10         | 40     |
 | Marković Sara       | 10        | 5         |            | 15     |
 | Masal Đorđe         | 10        | 15        | 10         | 35     |
 | Milošević Tamara    | 10        | 20        | 8          | 38     |

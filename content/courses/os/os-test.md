@@ -33,6 +33,7 @@ Na osvojeni broj poena svi dobijate još **10 poena** koji su bili namenjeni za 
 |   Cvijanović Nevena  |   37  |   A   |
 |  Cvijetković Nataša  |   36  |   A   |
 |   Denčić Aleksandra  |   14  |   A   |
+|     Đokić Dušan      |   34  |   B   |
 |     Đorđević Anja    |   30  |   A   |
 |    Doveden Dijana    |   34  |   A   |
 |     Dragiša Sanja    |   3   |   B   |
