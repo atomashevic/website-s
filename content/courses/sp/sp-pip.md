@@ -31,7 +31,7 @@ U junskom roku rok za predaju radova je 20.06.
 | Babić Tatjana       | 10        | 15        |            | 25     |
 | Bodiroga Dejan      | 10        | 0         |            | 10     |
 | Ćeran Ranko         | 10        | 15        |            | 25     |
-| Cvetić Aleksandra   | 10        | 20        |            | 30     |
+| Cvetić Aleksandra   | 10        | 20        |  10        | 40     |
 | Cvetković Zorana    | 10        | 0         |            | 10     |
 | Damljanović Anđela  | 10        | 10        |            | 20     |
 | Ivaneža Nataša      | 10        | 0         |            | 10     |
