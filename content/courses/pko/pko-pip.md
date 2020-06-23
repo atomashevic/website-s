@@ -118,7 +118,7 @@ Svaki upitnik nosi 8 poena. Kako je maksimalni broj poena 25, svi koji su popuni
 |       Rapajić Alisa      |     25    |
 |       Rudan Teodora      |     9     |
 |      Sakač Nastasja      |     25    |
-|      Šarčević Zorana     |     17    |
+|      Šarčević Zorana     |     25    |
 |       Sekulić Vinka      |     25    |
 |       Sikavica Anja      |     25    |
 |      Simić Andrijana     |     25    |

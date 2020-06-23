@@ -19,7 +19,7 @@ Tabela sa predisptinim poenima biće modifikovana neposredno pred ispit u svakom
 
 Promene se odnose na broj poena u skladu sa pristiglim seminarskim radovima pred svaki ispitni rok.
 
-Seminarske radove možete poslati najkasnije nedelju dana pre ispit. 
+Seminarske radove možete poslati najkasnije nedelju dana pre ispit.
 
 U junskom roku rok za predaju radova je 20.06.
 
@@ -35,7 +35,7 @@ U junskom roku rok za predaju radova je 20.06.
 | Cvetković Zorana    | 10        | 0         |            | 10     |
 | Damljanović Anđela  | 10        | 10        |   9        | 29     |
 | Ivaneža Nataša      | 10        | 0         |            | 10     |
-| Jojić Jelena        | 10        | 15        |            | 25     |
+| Jojić Jelena        | 10        | 15        | 8          | 33     |
 | Karanović Aleksa    | 10        | 5         |            | 15     |
 | Kastratović Gala    | 10        | 10        |            | 20     |
 | Knežević Jelena     | 10        | 10        | 8          | 28     |
