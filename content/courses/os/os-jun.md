@@ -52,7 +52,9 @@ Ukoliko želite pojašnjenje vaše ocene i ispitnog rezultata, javite se mejlom.
 | Mitrovic Tara        	| 28  	| 47    	| 75     	| 8     	|
 | Mušikić Aleksandra   	| 41  	| 32    	| 73     	| 8     	|
 | Pavićević Ana        	| 30  	| 32    	| 62     	| 7     	|
+| Penezić Brankica     	| 40  	| 35    	| 75     	| 8     	|
 | Purar Anđela         	| 50  	| 41    	| 91     	| 10    	|
+| Rajlić Vladana        | 41    | 24      | 65      | 7       |
 | Slijepčević Danijela 	| 47  	| 24    	| 71     	| 8     	|
 | Tadić Teodora        	| 46  	| 29    	| 75     	| 8     	|
 | Todorović Slađana    	| 32  	| 29    	| 61     	| 7     	|
