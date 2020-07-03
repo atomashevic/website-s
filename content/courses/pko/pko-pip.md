@@ -126,7 +126,7 @@ Svaki upitnik nosi 8 poena. Kako je maksimalni broj poena 25, svi koji su popuni
 |      Stanković Tanja     |     25    |
 |     Stefanović Jelena    |     25    |
 |      Stjepić Darija      |     25    |
-|     Stojadinović Tina    |     9     |
+|     Stojadinović Tina    |     17     |
 |    Stokuća Aleksandra    |     25    |
 |    Stracaboško Milica    |     25    |
 |       Subotić Ivan       |     25    |
