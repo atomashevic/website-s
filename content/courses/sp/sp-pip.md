@@ -36,7 +36,7 @@ U junskom roku rok za predaju radova je 20.06.
 | Damljanović Anđela  | 10        | 10        |   9        | 29     |
 | Ivaneža Nataša      | 10        | 0         |            | 10     |
 | Jojić Jelena        | 10        | 15        | 8          | 33     |
-| Karanović Aleksa    | 10        | 5         |            | 15     |
+| Karanović Aleksa    | 10        | 5         | 10         | 25     |
 | Kastratović Gala    | 10        | 10        |            | 20     |
 | Knežević Jelena     | 10        | 10        | 8          | 28     |
 | Lerinc Bernadet     | 10        | 20        | 10         | 40     |
