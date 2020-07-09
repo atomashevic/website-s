@@ -49,7 +49,7 @@ U junskom roku rok za predaju radova je 20.06.
 | Petković Teodora    | 10        | 15        |  10        | 35     |
 | Prodanović Zorana   | 10        | 20        | 9          | 39     |
 | Radović Sara        | 10        | 20        |            | 30     |
-| Simović Nina        | 10        | 5         |            | 15     |
+| Simović Nina        | 10        | 5         |     10     | 25   |
 | Sremac Isidora      | 10        | 0         |            | 10     |
 | Stevanović Marijana | 10        | 15        | 10         | 35     |
 | Šumić Milana        | 10        | 20        | 9          | 39     |

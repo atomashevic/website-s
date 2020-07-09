@@ -50,4 +50,4 @@ Rok za predaju seminarskog rada je nedelju dana pred ispit (kao što je navedeno
 |    **Vukelić Milica**   |     10    |         5 |         9   |     24 |
 |  **Vukomanović Jelena** |     10    |         4 |         9   |     23 |
 |    **Živčić Milana**    |     10    |         5 |       10     |     25 |
-|     Zurić Marija    |     10    |         7 |            |     17 |
+|     **Zurić Marija**    |     10    |         7 |      8      |     25 |
