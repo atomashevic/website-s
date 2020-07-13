@@ -53,6 +53,6 @@ U junskom roku rok za predaju radova je 20.06.
 | Sremac Isidora      | 10        | 0         |            | 10     |
 | Stevanović Marijana | 10        | 15        | 10         | 35     |
 | Šumić Milana        | 10        | 20        | 9          | 39     |
-| Tešin Vladimir      | 10        | 10        |            | 20     |
+| Tešin Vladimir      | 10        | 10        |      8      | 28    |
 | Tomić Zorana        | 10        | 5         |    9       | 24     |
 | Žunić Katarina      | 10        | 0         |     9       | 19     |
