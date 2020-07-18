@@ -29,16 +29,16 @@ Rok za predaju seminarskog rada je nedelju dana pred ispit (kao što je navedeno
 
 |    Prezime i ime    | Prisustvo | Aktivnost | Seminarski | Ukupno |
 |:-------------------:|:---------:|:---------:|:----------:|:------:|
-|   Cvijetić Mladen   |     10    |         2 |            |     12 |
+|   **Cvijetić Mladen**   |     10    |         2 |  9         |     21 |
 |    Dragan Dragana   |     10    |        10 |            |     20 |
-| Grozdanovski Nevena |     10    |         9 |            |     19 |
-|    Jakšić Mirjana   |     10    |        10 |            |     20 |
+| **Grozdanovski Nevena** |     10    |         9 |     10       |     29 |
+|    **Jakšić Mirjana**   |     10    |        10 |     8       |     28 |
 |    Joksović Marko   |     10    |         2 |            |     12 |
 |    **Jovović Ognjen**   |     10    |         5 |    9        |     24 |
 |   **Kostić Svetlana**   |     10    |         6 |           10 |     26 |
 |  **Kovačević Mihajlo**  |     10    |         0 |      10      |     20 |
-|   Mastilović Maša   |     10    |         4 |            |     14 |
-|   Mijatović Milica  |     10    |         7 |            |     17 |
+|   **Mastilović Maša**   |     10    |         4 |       10     |     24 |
+|   **Mijatović Milica**  |     10    |         7 |       8     |     25 |
 |  **Mišković Natalija**  |     10    |         8 |         9   |     27 |
 |  **Nedeljković Milica** |     10    |         9 |        10    |     29 |
 |     Perišić Uroš    |     10    |         2 |            |     12 |
