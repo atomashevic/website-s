@@ -103,12 +103,14 @@ Svaki upitnik nosi 8 poena. Kako je maksimalni broj poena 25, svi koji su popuni
 |    Nikolić Aleksandra    |     25    |
 |       Nikolić Jana       |     25    |
 |     Nikolić Katarina     |     25    |
+|     **Novaković Marija** |     25    |
 |     Orlić Anastasija     |     25    |
 |        Oros Andrej       |     25    |
 |      Parabucki Ivana     |     25    |
 |       Paunić Milica      |     25    |
 |       Pavić Jelena       |     25    |
 |      Pavlović Sandra     |     25    |
+| **Pavlović Kristina**    |     25    |
 |       Petrić Nataša      |     25    |
 |        Pirnat Sara       |     25    |
 |    Pudarević Kristina    |     25    |
@@ -126,7 +128,7 @@ Svaki upitnik nosi 8 poena. Kako je maksimalni broj poena 25, svi koji su popuni
 |      Stanković Tanja     |     25    |
 |     Stefanović Jelena    |     25    |
 |      Stjepić Darija      |     25    |
-|     Stojadinović Tina    |     17     |
+|     Stojadinović Tina    |     17    |
 |    Stokuća Aleksandra    |     25    |
 |    Stracaboško Milica    |     25    |
 |       Subotić Ivan       |     25    |
@@ -142,3 +144,4 @@ Svaki upitnik nosi 8 poena. Kako je maksimalni broj poena 25, svi koji su popuni
 |      Vukojević Jana      |     25    |
 |       Vuković Maša       |     25    |
 |     Zdravković Milena    |     25    |
+| **Živojin Katarina**     |     25    |
